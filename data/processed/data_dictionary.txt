@@ -1,0 +1,35 @@
+======================================================================
+kip - DATA DICTIONARY
+======================================================================
+
+Generated: 2026-01-30 14:24:03
+Rows: 780
+Columns: 24
+Date Range: 1960-01-01 to 2024-12-01
+
+Column                         Type            Non-Null   Missing % 
+----------------------------------------------------------------------
+date                           datetime64[ns]  780        0.0       
+GDP_growth                     float64         780        0.0       
+Inflation                      float64         780        0.0       
+Unemployment                   float64         780        0.0       
+Exports_pct_GDP                float64         780        0.0       
+Imports_pct_GDP                float64         780        0.0       
+GDP_per_capita                 float64         780        0.0       
+Agriculture_pct_GDP            float64         780        0.0       
+Industry_pct_GDP               float64         780        0.0       
+Services_pct_GDP               float64         780        0.0       
+year                           int32           780        0.0       
+Copper_Price_USD               float64         780        0.0       
+Volume                         float64         780        0.0       
+ZMW_per_USD                    float64         780        0.0       
+month                          int32           780        0.0       
+quarter                        int32           780        0.0       
+GDP_growth_lag_1               float64         779        0.1       
+GDP_growth_lag_3               float64         777        0.4       
+GDP_growth_lag_12              float64         768        1.5       
+Copper_MA_3                    float64         780        0.0       
+Copper_MA_12                   float64         780        0.0       
+Forex_MA_3                     float64         780        0.0       
+Forex_MA_12                    float64         780        0.0       
+Economic_Trend                 category        780        0.0       
