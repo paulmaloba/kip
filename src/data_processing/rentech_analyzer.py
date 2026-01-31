@@ -129,7 +129,7 @@ def main():
     print("📊" * 35 + "\n")
     
     # Analyze
-    df = analyze_rentech_data('data/raw/sample-data-Companies.csv')
+    df = analyze_rentech_data('data/raw/rentech_lusaka_companies.csv')
     
     # Save processed data
     save_processed_data(df)

@@ -1,0 +1,20 @@
+{
+  "survey_metadata": {
+    "year": 2018,
+    "total_firms": 242,
+    "provinces": [
+      "Lusaka",
+      "Copperbelt",
+      "Central"
+    ],
+    "sme_percentage": 88,
+    "exporter_percentage": 7,
+    "importer_percentage": 43
+  },
+  "key_findings": {
+    "sme_failure_rate": 70,
+    "gdp_contribution": 70,
+    "employment_contribution": 88,
+    "business_percentage": 97
+  }
+}

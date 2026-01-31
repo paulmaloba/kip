@@ -1,0 +1,38 @@
+======================================================================
+MARKET SATURATION & GAP ANALYSIS REPORT
+Project Kwacha - KIP Intelligence
+======================================================================
+
+Total Businesses Analyzed: 100
+
+Data Sources:
+  • zambiayp: 100 businesses
+
+City Distribution:
+  • lusaka: 20 businesses
+  • kitwe: 20 businesses
+  • ndola: 20 businesses
+  • livingstone: 20 businesses
+  • kabwe: 20 businesses
+
+Categories Analyzed: 1
+
+Top 5 Most Saturated:
+  • Uncategorized: 20 businesses (Very High)
+
+
+Market Gaps Identified: 22
+
+Top 5 Opportunities:
+  • Coffee Shops: Score 1.00
+    No Coffee Shops found - completely untapped market
+  • Bakeries: Score 1.00
+    No Bakeries found - completely untapped market
+  • Gyms: Score 1.00
+    No Gyms found - completely untapped market
+  • Bookstores: Score 1.00
+    No Bookstores found - completely untapped market
+  • Pet Stores: Score 1.00
+    No Pet Stores found - completely untapped market
+
+======================================================================

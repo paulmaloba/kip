@@ -31,7 +31,7 @@ class ZambiaBusinessScraper:
         print(f"SCRAPING: {city_name.upper()}")
         print(f"{'='*70}")
         
-        city_url = f"{self.base_url}/browse-business-cities/{city_name.lower()}"
+        city_url = f"{self.base_url}/location/{city_name.lower()}"
         
         for page in range(1, max_pages + 1):
             print(f"\n📄 Page {page}/{max_pages}...")
@@ -70,23 +70,32 @@ class ZambiaBusinessScraper:
                 continue
         
         print(f"\n✅ Total collected from {city_name}: {len([b for b in self.businesses if b['city'] == city_name])}")
-    
+
+
+
     def extract_business_info(self, card, city):
         """
         Extract business information from HTML card
         Adjust selectors based on actual website structure
         """
+        business_profile = f"{card.find('h3').find('a', href=True)}"
+
         try:
             business = {
                 'name': card.find('h3').find('a', href=True).text.strip() if card.find('h3') else None,
-                'category': card.find('span', class_='category').text.strip() if card.find('span', class_='category') else None,
+                # 'category': card.find('span', class_='category').text.strip() if card.find('span', class_='category') else None,
                 'address': card.find('div', class_='address').text.strip() if card.find('div', class_='address') else None,
                 'phone': card.find('div', class_='s').text.strip() if card.find('div', class_='s') else None,
                 'email': card.find('a', class_='email').text.strip() if card.find('a', class_='email') else None,
                 'city': city,
-                'url': card.find('a', href=True)['href'] if card.find('a', href=True) else None,
+                'url': card.find('h3').find('a', href=True)['href'] if card.find('a', href=True) else None,
                 'source': 'zambiayp.com'
             }
+            # extract categories
+            response_2 = requests.get(business_profile, headers=self.headers, timeout=10)
+            soup2 = BeautifulSoup(response_2.text, "html.parser")
+            categories = [a.text.strip() for a in soup2.select("div.tags a")]
+            business['category'] = categories  # list of categories
             
             return business if business['name'] else None
             

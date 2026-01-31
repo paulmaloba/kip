@@ -1,0 +1,10 @@
+sector,firm_size,capability_score,ecosystem_score
+Agri-food,Micro-Small,46,58
+Agri-food,Medium,55,66
+Agri-food,Large,63,74
+Manufacturing,Micro-Small,51,56
+Manufacturing,Medium,63,62
+Manufacturing,Large,73,78
+Business Services,Micro-Small,48,54
+Business Services,Medium,57,51
+Business Services,Large,71,70

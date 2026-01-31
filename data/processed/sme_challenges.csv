@@ -1,0 +1,7 @@
+challenge,severity,affected_sectors,percentage_affected,description
+Access to Finance,Critical,All,95,Difficulty obtaining credit and low-interest loans
+Export Capacity,High,"Agri-food, Manufacturing",93,"Only 7% of SMEs export, 64% interested but lack capacity"
+Environmental Changes,High,Agri-food,70,"Climate change affecting 70% of SMEs, especially agri-food"
+Supplier Dependency,Medium-High,Manufacturing,69,69% of manufacturers outside value chains rely on single supplier
+Technology Adoption,Medium,All,60,Limited ICT infrastructure and digital literacy
+Skills Shortage,Medium,"Services, Manufacturing",47,Skills mismatch in technical and business services
