@@ -1,5 +1,5 @@
 """
-Project Kwacha - Zambia Business Directory Scraper (IMPROVED)
+kip - Zambia Business Directory Scraper (IMPROVED)
 Better pagination handling and duplicate detection
 Week 2: Enhanced Data Collection
 """
@@ -24,7 +24,8 @@ class ZambiaBusinessScraper:
         self.businesses = []
         self.seen_businesses = set()  # Track duplicates in real-time
         
-    def scrape_city(self, city_name, max_pages=20):
+    def scrape_city(self, city_name, start_page=1, max_pages=None):
+
         """
         Scrape all businesses in a specific city with smart duplicate detection
         """
@@ -62,68 +63,76 @@ class ZambiaBusinessScraper:
         consecutive_duplicates = 0
         page = 1
         
-        while page <= max_pages:
-            print(f"\n📄 Page {page}/{max_pages}...")
-            
-            try:
-                # Try different pagination patterns
-                url_variations = [
-                    f"{successful_pattern}?page={page}",
-                    f"{successful_pattern}/page/{page}",
-                    f"{successful_pattern}?p={page}"
-                ]
+        while True:
+
+            print(f"\n📄 Page {page}...")
+            if page == 1:
+                url = successful_pattern
+            else:
+                url = f"{successful_pattern}/{page}"
+
+            response = requests.get(url, headers=self.headers, timeout=10)
+            # try:
+            #     # Try different pagination patterns
+            #     url_variations = [
+            #         f"{successful_pattern}/{page}",
+            #         f"{successful_pattern}?page={page}",
+            #         f"{successful_pattern}/page/{page}",
+            #         f"{successful_pattern}?p={page}"
+            #
+            #     ]
                 
-                response = None
-                for url in url_variations:
-                    try:
-                        r = requests.get(url, headers=self.headers, timeout=10)
-                        if r.status_code == 200:
-                            response = r
-                            break
-                    except:
-                        continue
+                # response = None
+                # for url in url_variations:
+                #     try:
+                #         r = requests.get(url, headers=self.headers, timeout=10)
+                #         if r.status_code == 200:
+                #             response = r
+                #             break
+                #     except:
+                #         continue
                 
-                if not response or response.status_code != 200:
-                    print(f"   ⚠️  Could not load page {page}")
-                    break
-                
-                soup = BeautifulSoup(response.content, 'html.parser')
-                business_cards = soup.find_all('div', class_='company_header')
-                
-                if not business_cards:
-                    print(f"   ℹ️  No businesses found on page {page} - end of results")
-                    break
-                
-                new_businesses = 0
-                for card in business_cards:
-                    business = self.extract_business_info(card, city_name)
-                    if business:
-                        # Create unique hash for this business
-                        business_hash = self.get_business_hash(business)
-                        
-                        if business_hash not in self.seen_businesses:
-                            self.businesses.append(business)
-                            self.seen_businesses.add(business_hash)
-                            new_businesses += 1
-                
-                print(f"   Found {len(business_cards)} listings, {new_businesses} new, {len(business_cards)-new_businesses} duplicates")
-                
-                # Stop if we're getting all duplicates (pagination not working)
-                if new_businesses == 0:
-                    consecutive_duplicates += 1
-                    if consecutive_duplicates >= 2:
-                        print(f"\n   ⚠️  Getting only duplicates for {consecutive_duplicates} consecutive pages")
-                        print(f"   Pagination may not be working - stopping here")
-                        break
-                else:
-                    consecutive_duplicates = 0
-                
-                page += 1
-                time.sleep(2)
-                
-            except Exception as e:
-                print(f"   ❌ Error on page {page}: {str(e)}")
+            if not response or response.status_code != 200:
+                print(f"   ⚠️  Could not load page {page}")
                 break
+
+            soup = BeautifulSoup(response.content, 'html.parser')
+            business_cards = soup.find_all('div', class_='company_header')
+
+            if not business_cards:
+                print(f"   ℹ️  No businesses found on page {page} - end of results")
+                break
+
+            new_businesses = 0
+            for card in business_cards:
+                business = self.extract_business_info(card, city_name)
+                if business:
+                    # Create unique hash for this business
+                    business_hash = self.get_business_hash(business)
+
+                    if business_hash not in self.seen_businesses:
+                        self.businesses.append(business)
+                        self.seen_businesses.add(business_hash)
+                        new_businesses += 1
+
+            print(f"   Found {len(business_cards)} listings, {new_businesses} new, {len(business_cards)-new_businesses} duplicates")
+
+            # Stop if we're getting all duplicates (pagination not working)
+            # if new_businesses == 0:
+            #     consecutive_duplicates += 1
+            #     if consecutive_duplicates >= 2:
+            #         print(f"\n   ⚠️  Getting only duplicates for {consecutive_duplicates} consecutive pages")
+            #         print(f"   Pagination may not be working - stopping here")
+            #         break
+            # else:
+            #     consecutive_duplicates = 0
+
+            page += 1
+            time.sleep(2)
+                
+            # except Exception as e:
+            #     print(f"   ❌ Error on page {page}: {str(e)}")
+            #     break
         
         city_total = len([b for b in self.businesses if b.get('city') == city_name])
         print(f"\n✅ Total unique businesses from {city_name}: {city_total}")
@@ -135,6 +144,7 @@ class ZambiaBusinessScraper:
         # Use name + city + address to create unique identifier
         unique_string = f"{business.get('name', '')}_{business.get('city', '')}_{business.get('address', '')}"
         return hashlib.md5(unique_string.encode()).hexdigest()
+
     
     def extract_business_info(self, card, city):
         """
@@ -163,10 +173,17 @@ class ZambiaBusinessScraper:
             address_div = card.find('div', class_='address')
             address = address_div.text.strip() if address_div else None
             
-            phone_div = card.find('div', class_='s')
+            phone_div = card.find('i', class_='fa fa-phone').find('span')
             phone = phone_div.text.strip() if phone_div else None
             
             # Look for category in the card itself
+            # business_profile = f"{card.find('h3').find('a', href=True)}"
+
+            # response_2 = requests.get(business_profile, headers=self.headers, timeout=10)
+            # soup2 = BeautifulSoup(response_2.text, "html.parser")
+            # categories = [a.text.strip() for a in soup2.select("div.tags a")]
+            # business['category'] = categories  # list of categories
+
             category = None
             category_span = card.find('span', class_='category')
             if category_span:
@@ -176,7 +193,7 @@ class ZambiaBusinessScraper:
                 'name': business_name,
                 'address': address,
                 'phone': phone,
-                'category': category,
+                # 'category': categories,
                 'city': city,
                 'url': business_url,
                 'source': 'zambiayp.com'

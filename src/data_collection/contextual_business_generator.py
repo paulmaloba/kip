@@ -1,5 +1,5 @@
 """
-Project Kwacha - Contextual Business Scenario Generator
+kip - Contextual Business Scenario Generator
 Generates realistic business ideas based on market gaps and economic context
 Week 2: Enhanced Synthetic Data
 """
