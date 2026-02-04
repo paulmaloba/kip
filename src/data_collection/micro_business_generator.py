@@ -1,5 +1,5 @@
 """
-Project Kwacha - Micro-Business Scenario Generator
+kip - Micro-Business Scenario Generator
 Generates realistic low-capital business ideas (K1,000 - K50,000)
 Addresses dataset imbalance toward large businesses
 Week 2: Enhanced Training Data
@@ -52,7 +52,7 @@ class MicroBusinessGenerator:
         """
         return {
             "Street Vending": {
-                "capital_range": (1000, 5000),
+                "capital_range": (500, 5000),
                 "examples": ["Mobile phone accessories", "Airtime", "Snacks", "Drinks", 
                            "Vegetables", "Fruits", "Second-hand clothes"],
                 "location": ["Market", "Street corner", "Bus station", "Shopping area"],
@@ -61,7 +61,7 @@ class MicroBusinessGenerator:
             },
             
             "Home-Based Food": {
-                "capital_range": (2000, 15000),
+                "capital_range": (500, 15000),
                 "examples": ["Fritters (vitumbuwa)", "Samosas", "Cakes", "Ice blocks",
                            "Home cooked meals", "Traditional beer (munkoyo)", "Popcorn"],
                 "location": ["Home", "Neighborhood"],
@@ -70,7 +70,7 @@ class MicroBusinessGenerator:
             },
             
             "Mobile Services": {
-                "capital_range": (3000, 20000),
+                "capital_range": (500, 20000),
                 "examples": ["Barber (mobile)", "Hairdressing (home visits)", "Phone repair",
                            "Tailoring (home-based)", "Shoe repair", "Laundry service"],
                 "location": ["Customer location", "Home workshop"],
@@ -88,7 +88,7 @@ class MicroBusinessGenerator:
             },
             
             "Agriculture (Small-Scale)": {
-                "capital_range": (10000, 50000),
+                "capital_range": (500, 50000),
                 "examples": ["Backyard chickens (50-100 birds)", "Mushroom growing",
                            "Vegetable garden (1-2 plots)", "Rabbit farming", "Goat rearing (5-10)"],
                 "location": ["Backyard", "Rented plot", "Peri-urban"],
@@ -106,7 +106,7 @@ class MicroBusinessGenerator:
             },
             
             "Retail (Micro)": {
-                "capital_range": (5000, 25000),
+                "capital_range": (500, 25000),
                 "examples": ["Tuck shop (home-based)", "Grocery kiosk", "Airtime kiosk",
                            "Small hardware", "School supplies", "Beauty products (small stock)"],
                 "location": ["Home", "Rented kiosk", "Container"],
@@ -167,6 +167,7 @@ ZAMBIAN MICRO-BUSINESS REALITY:
 - Operating in informal sector initially
 - High competition, low profit margins
 - Weather-dependent (for street/market vendors)
+- Fish bans: from December 1 to march 1
 - Customer base: Local community, low-income
 - Daily income targets: K50-200 per day
 
@@ -265,7 +266,7 @@ Be SPECIFIC and REALISTIC. This is for real entrepreneurs with limited capital."
         # Varied parameters for diversity
         locations = ['Lusaka', 'Kitwe', 'Ndola', 'Livingstone', 'Kabwe', 
                     'Chingola', 'Mufulira', 'Kasama', 'Chipata', 'Solwezi']
-        years = [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+        years = [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
         
         categories = list(self.micro_categories.keys())
         
