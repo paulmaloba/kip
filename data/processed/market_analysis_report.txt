@@ -1,27 +1,75 @@
 ======================================================================
 MARKET SATURATION & GAP ANALYSIS REPORT
-Project Kwacha - KIP Intelligence
+                KIP
 ======================================================================
 
-Total Businesses Analyzed: 100
+Total Businesses Analyzed: 4850
 
 Data Sources:
-  • zambiayp: 100 businesses
+  • zambiayp: 4850 businesses
 
 City Distribution:
-  • lusaka: 20 businesses
-  • kitwe: 20 businesses
-  • ndola: 20 businesses
-  • livingstone: 20 businesses
-  • kabwe: 20 businesses
+  • lusaka: 998 businesses
+  • ndola: 739 businesses
+  • chingola: 299 businesses
+  • kabwe: 289 businesses
+  • choma: 249 businesses
+  • mazabuka: 169 businesses
+  • kasama: 144 businesses
+  • mansa: 137 businesses
+  • lundazi: 131 businesses
+  • mufulira: 126 businesses
+  • kitwe: 120 businesses
+  • mkushi: 111 businesses
+  • livingstone: 100 businesses
+  • kafue: 95 businesses
+  • kaoma: 86 businesses
+  • kalulushi: 75 businesses
+  • chama: 69 businesses
+  • lukulu: 69 businesses
+  • mwinilunga: 62 businesses
+  • siavonga: 62 businesses
+  • zambezi: 54 businesses
+  • kasempa: 52 businesses
+  • chilanga: 50 businesses
+  • chirundu: 46 businesses
+  • isoka: 45 businesses
+  • chadiza: 43 businesses
+  • mbala: 43 businesses
+  • mumbwa: 42 businesses
+  • mongu: 40 businesses
+  • solwezi: 40 businesses
+  • chisamba: 38 businesses
+  • chibombo: 28 businesses
+  • serenje: 25 businesses
+  • mporokoso: 25 businesses
+  • chavuma: 24 businesses
+  • zimba: 21 businesses
+  • katete: 20 businesses
+  • kalabo: 20 businesses
+  • mpulungu: 14 businesses
+  • nchelenge: 12 businesses
+  • muyombe: 9 businesses
+  • milenge: 7 businesses
+  • gwembe: 7 businesses
+  • makeni: 5 businesses
+  • nakonde: 4 businesses
+  • chembe: 2 businesses
+  • kazembe: 2 businesses
+  • chiengi: 1 businesses
+  • chambeshi: 1 businesses
 
-Categories Analyzed: 1
+Categories Analyzed: 919
 
 Top 5 Most Saturated:
-  • Uncategorized: 20 businesses (Very High)
+  • Uncategorized: 32 businesses (Very High)
+  • Schools: 10 businesses (Medium)
+  • Advertising: 4 businesses (Low)
+  • Associations: 4 businesses (Low)
+  • Retail Services, Packaging Solutions, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products: 4 businesses (Low)
 
 
-Market Gaps Identified: 22
+Market Gaps Identified: 17
 
 Top 5 Opportunities:
   • Coffee Shops: Score 1.00

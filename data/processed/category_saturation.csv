@@ -1,2 +1,920 @@
 category,business_count,saturation_score,saturation_level
-Uncategorized,20,1.0,Very High
+Uncategorized,32,1.0,Very High
+Schools,10,0.3125,Medium
+Advertising,4,0.125,Low
+Associations,4,0.125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products",4,0.125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent",3,0.09375,Low
+Universities,3,0.09375,Low
+General Business,3,0.09375,Low
+"Retail Services, Packaging Solutions, Civil Engineering, Hardware Stores, Building Materials, Construction Services, Cashbuild Contact Details, Cashbuild, Cashbuild Waterfalls Zambia, Cashbuild Hardware, Cashbuild Branches, Cash Build Contact Number, Cash Build, Cash Build Lusaka, Cashbuild Lusaka, Cash Build Zambia, Cashbuild Zambia, Building materials",2,0.0625,Low
+"Energy Suppliers, Solar Energy, Engineers, Solar energy equipment",2,0.0625,Low
+"Banks, Credit Unions",2,0.0625,Low
+"Car Parts and Accessories, Vehicle Services",2,0.0625,Low
+Training,2,0.0625,Low
+"Education, Ministry of Education Address, Ministry of Education Contact Details, Ministry of Education Zambia Address",2,0.0625,Low
+"Farming, Wood Products, Hardware Stores, Building Materials",2,0.0625,Low
+Environmental Services,2,0.0625,Low
+"Food Manufacturing, Food Packaging",2,0.0625,Low
+Hotels,2,0.0625,Low
+Logistics,2,0.0625,Low
+"Restaurants, Take Aways, Wine and Beer, Whisky and Spirits, Hotels",2,0.0625,Low
+"Consultants, Investment Companies, Insurance Companies, Financial Activity, Construction",2,0.0625,Low
+"General Business, Welfare",2,0.0625,Low
+"Banks, Credit Unions, Financial Activity",2,0.0625,Low
+Electrical Service,2,0.0625,Low
+"Schools, Rhodes Park School",2,0.0625,Low
+"Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Industrial Services, Solar energy equipment",2,0.0625,Low
+"Banks, Credit Unions, Financial Activity, financial services",2,0.0625,Low
+"Legal Services, Solicitors, Wills and Trusts, Attorneys",2,0.0625,Low
+"Arts and Crafts, Industrial Services, Steel Products, Home and Garden, Carpet & Rug Dealers-New, Jewellery, Car Parts and Accessories, Car Rental, Vehicle Services",2,0.0625,Low
+Education,2,0.0625,Low
+"Insurance Companies, Financial Activity, Construction, Construction companies",2,0.0625,Low
+"Industrial Automation, Machine Vision, 08:30AM~06:00PM",2,0.0625,Low
+"Cleaning Equipment & Services, Engineering, Electrical Service, Electrical Goods, Air Conditioning, Construction",1,0.03125,Low
+"General Office Services, Drywall",1,0.03125,Low
+"Human Resources, Assessment and Development Consultants, HR Consultancy, Market Research, Data Collection, Internet Surveys, Research and Development, Small Business, Business Plans, Business to Business, Project Management, Market research",1,0.03125,Low
+"Advertising, Printing, Design and Print, Web Hosting, Web Services, Domain Name Registration, Website, Photography, Printing",1,0.03125,Low
+"Hotels, Tour Operators, Activity Holidays, Travel Agents, Visa Agencies",1,0.03125,Low
+Market Research,1,0.03125,Low
+"Beauty Professionals, Beauty Salons, Beauty Treatments, Massage, Manicures, Pedicure",1,0.03125,Low
+"Computer Consumables, Ink Cartridges, Printer Supplies, Computers Hardware, Electrical Goods, Computers, Laptops, Computers",1,0.03125,Low
+"Advertising, Brand Management, Graphic Design, T-Shirt Printing, Printing, Web Design, Banners, Graphics, Photocopying, Printing",1,0.03125,Low
+"Beauty Professionals, Beauty Treatments, Massage, Waxing Treatments, Complementary Therapy, Laser Therapy, Nails, Beauty, Massage",1,0.03125,Low
+"Advertising, Advertising Agencies, Photography Services, Digital Media, Social Media, Marketing, advertising agency in zambia, marketing agency in zambia, digital marketing, Photography",1,0.03125,Low
+"Human Resources, Assessment and Development Consultants, Customer Services, Employee Surveys, Consultants, Training, Team building, Consultants",1,0.03125,Low
+"Market Research, Web Development, Web Services, Domain Name Registration, Weddings",1,0.03125,Low
+"Advertising, Software Applications, Web Development, Information Technology, Film, Television and Video, Animation, Website development, Software development",1,0.03125,Low
+"Communications, Web Design, Web Hosting, Web Services, Website Maintenance, Website Performance, Web designing, Domain name registration",1,0.03125,Low
+"Construction Services, Building Maintenance, CCTV cameras, Generators, Cold rooms",1,0.03125,Low
+"Computer Software Solution, Payroll Services, Palladium, QUICKBOOKS, Sage Pastel",1,0.03125,Low
+"Secretarial Services, Admin and Clerical, Anywhere",1,0.03125,Low
+"Event Equipment, Chair Cover Hire, Lighting Hire, Tableware Hire",1,0.03125,Low
+"Doctors and Clinics, Medical Clinic, Medical Equipment, Healthcare IT, Surgical Supplies",1,0.03125,Low
+"Information Technology, Event Equipment, Computers, Information technology",1,0.03125,Low
+Computer Software Solution,1,0.03125,Low
+"Colleges, Education, Schools, Primary Schools, Secondary Schools",1,0.03125,Low
+"Advertising, Media Agencies, Media Consultancy, Market Research, Data collection",1,0.03125,Low
+"Advertising, Digital Marketing, Social Media Management, digital marketing, Website development, Brand management",1,0.03125,Low
+"Plumbers, PLUMBING",1,0.03125,Low
+"Electrical Service, Electrical Goods",1,0.03125,Low
+"Security Services, Event Services, Event Security Services, Industrial Premises, Security Fencing, Security, SECURITY GUARDS SEVICES, Cctv",1,0.03125,Low
+"Civil Engineering, Electrical Service, Trusted, Electrical",1,0.03125,Low
+"Tour Operators, Activity Holidays, Tourist Information, Travel Agents, Visa Agencies, Air Travel, Zambia",1,0.03125,Low
+"Architectural Services, Building Materials, Decorators, Remodeling, Paving, Interior Design, BUILDING MAINTENANCE, Landscaping, Interior design",1,0.03125,Low
+"Automotive, Motorcar Accessories & Supplies, Car Parts and Accessories, Fuel monitoring, Roadside assistance, Fleet management, Vehicle tracking",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Contract Cleaners, Retail Services, Retail and Shop Cleaning, Cleaning, Domestic Cleaning, Office Cleaning, Cleaning",1,0.03125,Low
+"Advertising, Digital Marketing, Web Development, digital marketing",1,0.03125,Low
+Engineering,1,0.03125,Low
+"Farming, Agricultural Supplies, Consulting, Management",1,0.03125,Low
+"Business Centres, Industrial Services, Grazed, Polished",1,0.03125,Low
+Motorbikes,1,0.03125,Low
+"AC Repair Services, Cold Storage Services, Civil Engineering, Industrial Premises, Warehouse Refurbishments",1,0.03125,Low
+"Communications, Telecom Consultants",1,0.03125,Low
+"General Office Services, Office Furniture, Workplace Products, Office supplies",1,0.03125,Low
+"Printing, Print and Reprographics, Networking, Web Development, Database Driven Websites, Web Hosting",1,0.03125,Low
+"Doctors and Clinics, Physiotherapy, Chiropractors",1,0.03125,Low
+"Advertising, T-Shirt Printing, Printing, Screen Printing, Clothing and Accessories, Uniforms, Corporate Shirts",1,0.03125,Low
+"Advertising, Graphic Design, Printing, Web Design, Web Development, Photography, Social Media Management, Branding, Photography, Web Design, Graphic design",1,0.03125,Low
+"Information Technology, Artificial Intelligence, Software Engineering, Software development",1,0.03125,Low
+Construction Services,1,0.03125,Low
+"Overseas Business, Import and Export Agents, Clothing and Accessories, Clothes Shops, Ladies Clothing, Mens Clothes",1,0.03125,Low
+"Computer Consumables, Printer Supplies, Computer Repair, Software Applications, Web Design, Graphic Design, Android, Software development, Website, Computer, Repair",1,0.03125,Low
+"Advertising, Graphic Design, Media Agencies, Online Advertising, Photography Services, Social Media, digital marketing, Graphic Designing",1,0.03125,Low
+"Medical Equipment, Surgical Supplies, Farming, Farm Supplies, Industrial Supplies, Chemicals, Medical equipment supplies, Surgical dental instruments, Farming",1,0.03125,Low
+"Marketing, Software Applications, Web Development, Database Driven Websites, Information Technology, App Development, Website development, Software development, Marketing",1,0.03125,Low
+"Advertising, Brand Management, Graphic Design, Software Applications, Web Design, Information Technology, Software company, tech company, mobile app development, Web Design",1,0.03125,Low
+"Weddings, Wedding Jewellery, Jewellery, Jewellery Design, Affordable, Jewellery",1,0.03125,Low
+"Architectural Services, Construction Services, Remodeling, Interior Design, Home Remodeling, Home Improvement",1,0.03125,Low
+"Clothing and Accessories, Fashion Accessories, Uniforms, Electrical Goods, Textile, Buttons Bit For Mining, Fabric Shops in Lusaka",1,0.03125,Low
+"General Business, Weddings, Cafes, Food Retailers, Bakers, Cake Design, Cupcakes, Food Suppliers, Bakery",1,0.03125,Low
+"Arts and Crafts, Florists, Event Services, Event Management, Weddings, Wedding Flowers, Flower Shops in Lusaka, Flower Delivery Lusaka Zambia, Florist, Flowers",1,0.03125,Low
+"Motorbikes, Motorbikes For Sale, Gatoma Motorcycle, Electric Motorcycle Scooter, Helmets For Sale Near Me, motorbike, Motorbikes",1,0.03125,Low
+"General Business, Market Research, Computer Consumables, Web Design, Web Services, Medical Equipment, Hospital equipment, Office equipment",1,0.03125,Low
+"Motorbikes, Cycle Shops Near Me, Bicycle Shops in Lusaka, Bike Shops in Lusaka, Best of Bikes Lusaka, Services, Zambia",1,0.03125,Low
+"Advertising, Advertising Agencies, Brand Management, Digital Signage, Automotive, Car Rental, Transport, Vacation Rentals, Apartment Rental, Rental Property, Digital advertising, airport transfer, Car hire, Car rental",1,0.03125,Low
+"Overseas Business, Freight forwarding",1,0.03125,Low
+"Computer Consumables, Printer Supplies, Tapes, Printers",1,0.03125,Low
+"Home and Garden, Bolts & Nuts, Bearings, Bearing, Fasteners",1,0.03125,Low
+"Energy Suppliers, Solar Energy, Automotive, Automobile Batteries, Paper Products, Steel Products",1,0.03125,Low
+"Advertising, Catalogue Designers, T-Shirt Printing, Printing, Design and Print, Web Design and Hosting, Branding, Business cards",1,0.03125,Low
+"Education, Schools, Secondary Schools, Private Schools, International Schools, Tutoring, Cambridge IGCSE, International gcse",1,0.03125,Low
+"Associations, Africa, Zambia, Lusaka",1,0.03125,Low
+"Advertising, Graphic Design, Video Production, Music, Weddings, Wedding Music",1,0.03125,Low
+"FinTech (Financial Technology), Financial Activity",1,0.03125,Low
+"Advertising, Photography Services, T-Shirt Printing, General Office Services, Office Equipment, Secretarial Services, Photocopying, Photocopying Machine Near Me, Office Machines Zambia, Office Machines, Photocopy, Solar energy equipment, Office equipment",1,0.03125,Low
+"Food Retailers, Bottled Water",1,0.03125,Low
+"Computer Consumables, Computer Software Solution, Computer Repair, Computers Hardware, Web Development, Information Technology, Smartnet, Companies in Zambia, IT companies in Zambia, Computer",1,0.03125,Low
+"Towing Service, Roadside assistance",1,0.03125,Low
+"General Office Services, Stationery, Networking, Computer Networking, Hardware Stores, Mobile Phone Shops, Computer Stores Near Me, Website, Repairs, Sound, Network, Printers, King, Cosmic, Computer, Business, Laptops, Zambia, Lusaka, Stationery suppliers, Security, Web Design",1,0.03125,Low
+"Construction Services, Roofing, Concrete",1,0.03125,Low
+"Advertising, Communications, Web Development, Ecommerce, Apps, Clothing and Accessories, Electronic Equipment, Furniture, Marketplace, shop online, e-commerce",1,0.03125,Low
+"Farming, Agriculture, Lamsat Zambia, Lamasat Zambia Contact Details, Lamasat International, Lamasat Lusaka, Lamasat Contact Details, Lamasat, Lamasat Zambia",1,0.03125,Low
+"Communications, Mobile Phone Services, Mobile Phone Shops, Mobile Phones, Phone Accessories",1,0.03125,Low
+"Advertising, Brand Management, Copywriters, Graphic Design, Media Consultancy, Outdoor Advertising, Creative, Branding, Photography, Printing, Advertising",1,0.03125,Low
+"Audit and Accounting, Accounting",1,0.03125,Low
+"Advertising, Advertising Agencies, Digital Marketing, Advertising Agency in Lusaka, marketing agency in zambia",1,0.03125,Low
+"Construction Services, Decorators, Construction, Construction Company",1,0.03125,Low
+"Farming, Tractor Parts and Spares, Massey Ferguson Tractors",1,0.03125,Low
+"Clothing and Accessories, Boutique, Beauty & Hair Accessories",1,0.03125,Low
+"Apartments, Airports, Car Rental, Airport transfers, Apartments",1,0.03125,Low
+"Advertising, Advertising Agencies, Artificial Intelligence, Cloud Computing",1,0.03125,Low
+"Advertising, Brand Management",1,0.03125,Low
+"Security Services, Industrial Premises, Industrial Security, Security Fencing, Security, GPS tracking, ACCESS CONTROL, Cctv",1,0.03125,Low
+"Industrial Automation, Control Systems, Construction Equipment",1,0.03125,Low
+"Advertising, Graphic Design, Digital Marketing, Digital, Web Design, Graphic design",1,0.03125,Low
+"Doctors and Clinics, Medical Clinic, Mens Clinic Lusaka",1,0.03125,Low
+"Gifts, Cosmetics and Toiletries",1,0.03125,Low
+"Event Services, Event Photography, Wedding, Management, Events",1,0.03125,Low
+"Marketplace, marketplace, Web services",1,0.03125,Low
+"Apartments, Holiday Homes, Accommodation in zambia",1,0.03125,Low
+"Retail Services, Barcode Systems, Cash Register Services, Point of Sale Solutions, Information Technology, Industrial Automation, Assembly Equipment, Industrial Services, Weighbridges",1,0.03125,Low
+"Logistics, Removals and Relocation, Removals, Moving, Warehousing, Forwarding, Freight, Household",1,0.03125,Low
+"Event Services, Event Planning, Hiring Services, Engineering, Tents",1,0.03125,Low
+"Software Applications, Web Development, Website development, Software development, Software solutions, Web development",1,0.03125,Low
+"Complementary Therapy, Chinese Medicine",1,0.03125,Low
+"Music, Music, Online Music",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent, Post Office Near Me, Post Office Contact Details, Post Office, Post Office Zambia",1,0.03125,Low
+"Food Retailers, Meats Retail, Restaurants, Fast Food, Farming, Livestock, AgTech, Food and Beverage, Supply chain management",1,0.03125,Low
+"Auctioneers, Retail",1,0.03125,Low
+"Doctors and Clinics, Hospitals, Medical Tourism, Medical Equipment, Healthcare IT, Medical Supplies, Mri equipment, Healthcare, Ultrasound",1,0.03125,Low
+"Architectural Services, Aluminium, Building Materials, Construction Services, Construction",1,0.03125,Low
+"Advertising, Advertising Software, Printing, Specialist Printing, Energy Suppliers, Electricity Suppliers, Barcodes, Printing",1,0.03125,Low
+"Building Materials, Interior Design, Buildings, Fitted kitchens",1,0.03125,Low
+"Advertising, Advertising Agencies, Brand Management, Photography Services, Fashion, Modeling Agencies, zambian models",1,0.03125,Low
+"Advertising, Brand Management, Printing, Screen Printing, Clothing and Accessories, Uniforms, Corporate branding, Protective Clothing",1,0.03125,Low
+"Advertising, Consultants, Marketing, Printing, Communications, Web Design, Web Management, Print, Branding, Marketing, Advertising",1,0.03125,Low
+"Advertising, 3D Displays, Advertising Agencies, Corporate Identity Design, Logo Design, T-Shirt Printing, Logo, Media, Advertising",1,0.03125,Low
+"Communications, Telecom Consultants, Networking, Cabling and Fibre Optics, WiFi",1,0.03125,Low
+"AC Repair Services, Electrical Goods, Air Conditioning, Construction Services",1,0.03125,Low
+"Farming, Agricultural Consultant, Agribusiness, Training",1,0.03125,Low
+"Real Estate Agents, Letting Agents, Property Development, Apartment Rental, Realtors, PROPERTY MANAGEMENT",1,0.03125,Low
+"Printing, Design and Print, Digital Printing, Print and Reprographics, Flyers, Business cards, Digital printing",1,0.03125,Low
+"Event Services, Event Decorators, Weddings, Wedding Flowers, Gifts, Florists, Florist, Flowers",1,0.03125,Low
+"Security Services, Event Services, Event Security Services, Security, SECURITY GUARDS SEVICES, Private Investigations, Cctv",1,0.03125,Low
+"Event Equipment, Exhibition Stands, Event Services, Exhibition Organisers, Steel Products, Tents",1,0.03125,Low
+"Energy Suppliers, Solar Energy, Electrical Service, Solar Panels, Solar Batteries, Solar, Electrical",1,0.03125,Low
+"Doctors and Clinics, Hospitals, Medical Clinic, Health Care, Opticians, opticians in lusaka",1,0.03125,Low
+"Human Resources, Employment Agencies, Employment Training, HR Consultancy, HR Outsourcing, Job Vacancies",1,0.03125,Low
+"Fire Safety Consultants, Fire Risk Assessment, Human Resources, Private Investigation, Fraud investigations",1,0.03125,Low
+"Commercial Property, Real Estate Agents, Property Development, Houses, Shops",1,0.03125,Low
+"Advertising, Outdoor Advertising, T-Shirt Printing, Printing, Design and Print, Print and Reprographics, Branding, Signage, Billboards, Books, Printing",1,0.03125,Low
+"Advertising, Advertising Agencies, Graphic Design, Media Consultancy, Online Advertising, Video Production, Social Media Management, Media, Web development, Advertising",1,0.03125,Low
+"Advertising, Illustrators, Film, Television and Video, Animation, marketing agency, Animation, Graphic design",1,0.03125,Low
+"Human Resources, Employment Training, HR Consultancy, Psychometric Testing, Workforce Management, Consultants, communication, Team building, Training",1,0.03125,Low
+"Automotive, Motorcar Accessories & Supplies, Automobile Batteries, Vehicle Services, Mechanics",1,0.03125,Low
+"Health and Safety, Driving Schools, Vehicle Services, Vehicle Valuation",1,0.03125,Low
+"Consultants, Market Research, Small Business, Business Advice, Farming, Agricultural Consultant, Irrigation, Project monitoring and evaluation, Agribusiness, Agriculture, Market research",1,0.03125,Low
+"Civil Engineering, Structural Engineers, Architectural Services, Interior Design, Architect, House, Interior design",1,0.03125,Low
+"Human Resources, Consultants, Small Business, Business Support Services, Audit and Accounting",1,0.03125,Low
+"Computer Consumables, Computer Repair, Computers Hardware, Networking, Computer Networking, Software Applications, Information technology, Computer networking, Office equipment",1,0.03125,Low
+"Vehicle Services, Vehicle security, Fleet management, Vehicle tracking",1,0.03125,Low
+"Advertising, Graphic Design, Printing, Software Applications, Web Development, Web Services, Printing services, Branding",1,0.03125,Low
+"Advertising, Management, Tracking, Fleet",1,0.03125,Low
+"Industrial Premises, Aluminium, Stainless Steel, Doors, Windows",1,0.03125,Low
+"Advertising, Advertising Agencies, Graphic Design, Logo Design, Online Advertising, Social Media, social media marketing, Website design, Graphic design",1,0.03125,Low
+"Advertising, Brand Management, Design Agencies, Graphic Design, Online Advertising, Social Media, digital marketing, Website development, Communications",1,0.03125,Low
+Industrial Supplies,1,0.03125,Low
+"Advertising, Corporate Identity Design, Graphic Design, Logo Design, Outdoor Advertising, Social Media, Designing, Branding, Signage, Printing, Outdoor advertising",1,0.03125,Low
+"Consultants, Small Business, Business Support Services, Information Technology, Industrial Automation, asset tags",1,0.03125,Low
+"Construction Equipment, Construction Services, Haulage, Logistics, Shipping & Port Agent, Trucks, Transport, Logistics, Haulage",1,0.03125,Low
+"Civil Engineering, Bridge Construction, Structural Engineers, Construction Equipment, Construction Services, Construction, Design, Building, Civil, Construction",1,0.03125,Low
+"Advertising, Small Business, Online Content, Web Development, Ecommerce, online shopping in zambia",1,0.03125,Low
+"Human Resources, Criminal Records Check, Private Investigation, Mental Health Care, Behavioural Therapy, Psychotherapy",1,0.03125,Low
+"Civil Engineering, Industrial Automation, Electrical Service, Electrical Goods, Cable Tray, Enclosure, Feeder Pillar",1,0.03125,Low
+"Web Design, Search Engine Optimisation, Web Hosting, Web Services, E-business Consultancy, Website Management, search engine optimization, Social Media Management, Web Design, Graphic design, Brand management",1,0.03125,Low
+"Beauty Products, Cosmetics, Fragrance and Perfume, Permanent Makeup, Perfumes, Cosmetics",1,0.03125,Low
+"Advertising, Social Media, Digital Marketing, Web Services, Website Management, Website Maintenance, Graphic Designing, It services, Marketing, Online advertising",1,0.03125,Low
+"Beauty Products, Organic Skincare, Skincare, Soap",1,0.03125,Low
+"Brokers, Market Research, Sales Outsourcing, Business Management Consulting, Farming, Translation Services, Business Consultancy, Agribusiness",1,0.03125,Low
+"Education, Tutors",1,0.03125,Low
+"Advertising, 3D Visualisations, Advertising Agencies, Online Advertising, Digital Media, Web Design, Advertising agency, social media marketing, digital marketing, Website development, Branding",1,0.03125,Low
+"Advertising, Farm Land, Vehicle",1,0.03125,Low
+"Advertising, Cameramen, Graphic Design, Photography Services, Video Production, Digital Media, Film, Media, Photography",1,0.03125,Low
+"Fashion, Fashion Events, Modeling Agencies, Photography, Schools, Fashion Schools, youth, Fashion",1,0.03125,Low
+"Civil Engineering, Engineering, Architectural Services",1,0.03125,Low
+"Human Resources, Job Vacancies, Jobs in Zambia, Zambia Jobs",1,0.03125,Low
+"Advertising, Graphic Design, Social Media, Market Research, Consumer Behaviour, Web Analytics, Data Analysis, digital marketing, Market research, Advertising",1,0.03125,Low
+"Weddings, Wedding Photographers, Wedding Planners, Wedding Videographers, Clothing and Accessories, Wedding Dress Hire",1,0.03125,Low
+"AC Repair Services, Computer Repair, Networking, Cabling and Fibre Optics, Film, Television and Video, Television Repair, Electrical",1,0.03125,Low
+"Lawyers, Business Law, Conveyancing Lawyers, Legal Services, Debt Collection Agencies, Legal Secretaries",1,0.03125,Low
+"Building Materials, Decorators, Stainless Steel",1,0.03125,Low
+"Home and Garden, Furniture Stores, Furniture, Furniture Stores in Lusaka Zambia",1,0.03125,Low
+"Dentists, Medical Equipment, Healthcare IT, Laboratory Testing, Medical Supplies, Surgical Supplies, dental equipment, Dental instruments",1,0.03125,Low
+"Advertising, Advertising Software, Brand Management, Online Advertising, Digital Media, Social Media, Social Media, digital marketing, Advertising",1,0.03125,Low
+"General Office Services, Office Furniture, Stationery, Printing, Office Consumables, Furniture, Printing, Stationery, Office equipment",1,0.03125,Low
+"Advertising, Brand Management, Design Agencies, Graphic Design, Online Advertising, Social Media, Social Media, Online marketing, Marketing, Graphic design, Advertising",1,0.03125,Low
+"Beauty Professionals, Natural Skincare, Beauty Products, Essential Oils, Organic Skincare",1,0.03125,Low
+"Business Centres, Communications, Event Services, Food Retailers, Mobile Phone Shops, Vehicle Sales, internet cafe, Business Centre, Telecommunication, Computers",1,0.03125,Low
+"General Office Services, Communications, Computer Consumables, Information Technology, Office Consumables, Software development, Electronics",1,0.03125,Low
+"Clothing and Accessories, Uniforms, Apparel, Clothing, Building construction, Protective Clothing",1,0.03125,Low
+"Advertising, Beauty Professionals, Beauty Therapists, Health Care",1,0.03125,Low
+Vehicle Services,1,0.03125,Low
+"Water Treatment, Solar Panels, Environmental Services",1,0.03125,Low
+"Communications, Call Centres, Telephone Engineers",1,0.03125,Low
+"Logistics, Imports, Customs, Transport",1,0.03125,Low
+"Leisure, Hotels, Tour Operators, Game drives, Fishing, Lodges in zambia",1,0.03125,Low
+"Cleaning Equipment & Services, Retail Services, Retail and Shop Cleaning, Dry Cleaning, Chemicals, Chemicals Cleaning, Garbage Collection, Clean, Lusaka, Cleaning",1,0.03125,Low
+"Advertising, Advertising Agencies, Brand Management, Media Consultancy, Digital Media, Social Media, Media Buying, Experiential marketing, Public relations",1,0.03125,Low
+"Leisure, Hotels, Lodgeslodgessafari lodges",1,0.03125,Low
+"Computers Hardware, Networking, Computer Networking, Networking Consultants, Information Technology, Hardware Stores",1,0.03125,Low
+"Food Manufacturing, Food Processing",1,0.03125,Low
+"Consultants, Market Research, Printing, Training, Books, Book Publishers, Graphic design services, Research, Education",1,0.03125,Low
+"Human Resources, Consultants, Market Research, Sales Outsourcing, Small Business, Real Estate Agents, Business plan, Consultancy, Research, Real estate",1,0.03125,Low
+"Advertising, Brand Management, Marketing, Public Relations, Media Relations, PR Consultants, marketing agency",1,0.03125,Low
+"Building Materials, Construction Services, Renovation, Building construction, Cleaning services",1,0.03125,Low
+"Human Resources, HR Outsourcing, Market Research, Market Research Consultants, Communications, Call Centres",1,0.03125,Low
+"Small Business, Wholesale Traders, Take Aways, Lunch Delivery, Logistics",1,0.03125,Low
+"Communications, SMS Services, Networking, Computer Networking, Web Development, Database Driven Websites",1,0.03125,Low
+"Construction Services, Aluminium",1,0.03125,Low
+"Overseas Business, Import and Export Agents, Web Services, Logistics, Transport, Vehicle Sales, Freight Forwarders",1,0.03125,Low
+"Advertising, Computer Consumables, Networking, Photography, Event Services, Exhibition Graphics, Network",1,0.03125,Low
+"Payroll Services, Doctors and Clinics, Hospitals, Funeral Directors",1,0.03125,Low
+"Advertising, Design Agencies, Graphic Design, Online Advertising, Digital Media, Social Media, Social Media, Design, Website, Marketing",1,0.03125,Low
+"Networking, Cabling and Fibre Optics, Web Design, Web Designers, Information Technology, Zambia, Information technology, Networking",1,0.03125,Low
+"Advertising, Marketing, Small Business, Communications, Fashion, Photography, Wedding photography",1,0.03125,Low
+"Computer Software Solution, Software Applications, Software, Retail",1,0.03125,Low
+"Computer Software Solution, point of sale software, Accounting software",1,0.03125,Low
+"Advertising, Health and Safety, Human Resources, Online Content, Web Services, E-business Consultancy, Business Consultancy, Web hosting, Web Design",1,0.03125,Low
+"Insurance Companies, Financial Activity, Auto Insurance, Property Insurance",1,0.03125,Low
+"Farming, Wood Products, Agriculture, Jewellery, Aluminium, Kroupwood Zambia, Kroupwood, Diamond products",1,0.03125,Low
+"General Office Services, Beauty Products, Cosmetics, Essential Oils, Skincare, Soap, Pharmacy in Lusaka, Pharmacies in Lusaka",1,0.03125,Low
+"Driving Schools, Logistics, Motorbikes, Vehicle Services, Towing Service, Auto Services, Vehicle Valuation, Roadside assistance, Fleet management, Vehicle tracking",1,0.03125,Low
+"Software Applications, Web Services, Internet Security, Website Management, Website Maintenance, tech company, IT Solutions",1,0.03125,Low
+"Advertising, 3D Displays, Architectural Services, Graphic Designs",1,0.03125,Low
+"Web Development, Ecommerce, Food Retailers, Organic Food Delivery, Logistics, Delivery, Courier, Logistics",1,0.03125,Low
+"Advertising, Digital Signage, Graphic Design, Printing, Web Design, Web Development, Website design, Printing, Logo design, Graphic design",1,0.03125,Low
+"Automotive, Motorcar Accessories & Supplies, Car Parts and Accessories, Mechanics, honest",1,0.03125,Low
+"Consultants, Market Research, Data Collection, Communications, Online Content, Online Surveys, Project monitoring and evaluation, Research, Data collection",1,0.03125,Low
+"Civil Engineering, Bridge Construction, Structural Engineers, Building Materials, Construction Services, Building Maintenance, Building construction, Designing, Civil engineering",1,0.03125,Low
+"Cleaning Equipment & Services, Chemicals, Chemicals Cleaning, Pest Control, Cleaning, Fumigation  services, Cleaning services",1,0.03125,Low
+"Driving Schools, Motorbikes, Auto Repair, Auto Services, Auto Parts- New & Used, Auto Supplies, Sale, Motorbikes",1,0.03125,Low
+"Information Technology, Risk Management",1,0.03125,Low
+"Advertising, Magazine Publishing, Printing, Design and Print, Books, Book Publishers",1,0.03125,Low
+"Industrial Automation, Machine Vision, Equipment Repairs",1,0.03125,Low
+"Advertising, Design Agencies, Flyers, Business cards, Vinyl, Stickers, Billboards, Billboard, Graphics, Graphic design",1,0.03125,Low
+"Towing Service, Roadside assistance, Vehicle",1,0.03125,Low
+"Home and Garden, Home Decor, Furniture Stores, Home Remodeling, Home Improvement, Electrical services",1,0.03125,Low
+"Human Resources, Assessment and Development Consultants, Career Management and Planning Advisors, Market Research, Research and Development, Marketing, Business Development",1,0.03125,Low
+"Communications, Mobile Phone Services, Computer Software Solution, Software Applications, Web Development, Database Driven Websites, Web Hosting, Web Services, Information Technology, Software, mobile app development, Website development, Software development",1,0.03125,Low
+"Civil Engineering, Structural Engineers, Farming, Agricultural Equipment, Steel Products",1,0.03125,Low
+"Hotels, Self Catering Accommodation, Hotel & Motel Equipment, Homestay, Accommodation",1,0.03125,Low
+"Clothing and Accessories, Shoes, Boutique",1,0.03125,Low
+"Catering, Catering Supplies, Industrial Premises, Site Clearance, Metals, Metal Fabrication, Food supply, Clearing and forwarding, Construction",1,0.03125,Low
+"Guest Houses, Guest House, Budget accommodation",1,0.03125,Low
+"Education, Schools, trust, School, Lusaka, Education",1,0.03125,Low
+"Advertising, Web Design, Search Engine Optimisation, Web Designers, Web Development, Ecommerce, social media marketing, marketing agency, digital marketing",1,0.03125,Low
+"General Office Services, Human Resources, Printing, Retail Services, Computer Software Solution, Scanning Services, Software, Barcodes",1,0.03125,Low
+"Advertising, Graphic Design, Online Advertising, Outdoor Advertising, Building Maintenance, Construction",1,0.03125,Low
+"Online Content, Online Communities, Research and Reference, Education, Tutoring, Business Education, Tutors",1,0.03125,Low
+"Advertising, Digital Signage, Illustrators, Logo Design, Printing, Design and Print, Designing, Branding, Vehicle, Printing, Advertising",1,0.03125,Low
+"Civil Engineering, Bridge Construction, Designing, Repairs, Construction, Engineering",1,0.03125,Low
+"Advertising, Advertising Software, Media Consultancy, Online Advertising, Video Production, Zambia Yp, Advertising",1,0.03125,Low
+"Advertising, Brand Management, Corporate Identity Design, T-Shirt Printing, Arts and Crafts, 3D Design, Branding, Design, Printing",1,0.03125,Low
+"Event Services, Car Rental, Driving Schools, Logistics, Vehicle Services, Draving School, Central Driving School, Driving School Prices Near Me, Driving School in Lusaka, Driving Schools in Zambia, Driving Schools in Lusaka, Driving School, Lusaka",1,0.03125,Low
+"Farming, Agricultural Supplies, Agriculture, Water Treatment, Pumps Manufacturers, Water Filters, Borehole drilling In zambia, Africa",1,0.03125,Low
+"Web Development, Ecommerce, Food Retailers, Catering, Take Aways, Wine and Beer, General Shopping, Logistics, Tigmoo, Food Delivery, Take away",1,0.03125,Low
+"General Office Services, Office Supplies, Computer Consumables, Ink Cartridges, Printer Supplies",1,0.03125,Low
+"Consultants, Industrial Automation, Industrial Equipment, Industrial Services, Construction Equipment, Electrodes, Welding machines",1,0.03125,Low
+"Industrial Automation, Automotive, Motorcar Accessories & Supplies, Automobile Batteries, Auto Parts- New & Used, Auto Supplies, Battery, Lubricants, Automotive",1,0.03125,Low
+"Advertising, Social Media, Web Design, Search Engine Optimisation, Web Development, Social Media Management, Web development, Web Design",1,0.03125,Low
+"Retail Services, Barcode Systems, Computer Consumables, Web Design, Multimedia Design",1,0.03125,Low
+"Leisure, Conferences, Hotels, Lodges Lusaka Zambia, Lodges in Lusaka, Lodgeslodgessafari lodges",1,0.03125,Low
+"Training, Online Content, Web Design, Graphic Design, Web Development, Content Management, Software solutions, Web Design, Graphic design",1,0.03125,Low
+"Advertising, Graphic Design, Logo Design, Online Advertising, Digital Media, Social Media, Graphic Designing, Website design, Web hosting",1,0.03125,Low
+"Bookmakers, Online Casinos and Poker, Casinos",1,0.03125,Low
+"Photography, Corporate Photographers, Photographers, Wedding Photography, Weddings, Wedding Photographers, Wedding Photographer",1,0.03125,Low
+"Small Business, Online Content, Mental Health Care, Farming, Advice Centres, Voluntary Organisations, Sustainability",1,0.03125,Low
+"Advertising, Advertising Agencies, Digital Media, Social Media, Marketing, Web Design, facebook marketing, social media marketing, digital marketing, Web Design",1,0.03125,Low
+"Film, Television and Video, Projector Hire and Sales, Event Equipment, Audio Visual, Event Services, Event Management, Exhibition",1,0.03125,Low
+"Training, Consulting, Audit and Accounting, Business Management Consulting, Financial Activity, Taxation, BUSINESS ADVISORY, Accounting",1,0.03125,Low
+"Human Resources, HR Consultancy, Small Business, Business Advice, Audit and Accounting, Business Management Consulting",1,0.03125,Low
+"Medical Equipment, Laboratory Testing, Industrial Supplies, Chemicals, Chemicals Cleaning, Petroleum Products, Mining Chemicals, Laboratory Equipment, Industrial chemicals",1,0.03125,Low
+"Communications, Satellite Communications, Web Services, Internet Security, Cyber Security, IT Solutions, IT CONSULTANCY",1,0.03125,Low
+"Advertising, Advertising Agencies, Brand Management, Design Agencies, Logo Design, Social Media, digital marketing, Branding, Ecommerce, Web Design",1,0.03125,Low
+"Advertising, T-Shirt Printing, Printing, Design and Print, Screen Printing, Business to Business",1,0.03125,Low
+"Retail Services, Barcode Systems, Point of Sale Solutions, Small Business, Business Funding, Software Applications, Software, Financial Activity, Mobile Phone Shops, Payments, Mobile, Software",1,0.03125,Low
+"Energy Suppliers, Renewable Energy, Solar Energy, Sustainable Energy, Solar Panels, Solar Panels, Solar Batteries, Solar energy",1,0.03125,Low
+"Information Technology, Banking Equipment, Information, Technology",1,0.03125,Low
+"Health and Safety, Saftey Equipment, Event Services, Weddings, Wedding Planners, Fire Safety Equipment, Events Management, Food Suppliers, Consultancy",1,0.03125,Low
+"Advertising, Human Resources, Market Research, Small Business, Training, Software Applications, Funding, Management, Entrepreneurship, Technology, Training",1,0.03125,Low
+"Software Applications, Audit and Accounting, Management consultants",1,0.03125,Low
+"Advertising, Advertising Software, Computer Software Solution, Software Applications",1,0.03125,Low
+"Advertising, Digital Signage, Web Design, Web Hosting, Web Services, Domain Name Registration, online business, social media marketing, Web hosting, Web Design",1,0.03125,Low
+"Civil Engineering, Bridge Construction, Structural Engineers, Construction Equipment, Construction Services, Drilling, Borehole",1,0.03125,Low
+"Software Applications, Information Technology, Software, Logistics, Taxis",1,0.03125,Low
+"Security Services, Rapid Response, Alarms, Security services",1,0.03125,Low
+"Investment Companies, Insurance Companies, Health Insurance",1,0.03125,Low
+"Farming, Wood Products, Hardware Stores, Building Materials, Fabric Shops in Lusaka, Fabric",1,0.03125,Low
+"Civil Engineering, Construction, Transport, Freight, Transport, Logistics, Haulage",1,0.03125,Low
+"Advertising, Advertising Agencies, Advertising Software, Brand Management, Advertising Equipment, Digital Media, Digital advertising, Branding, Graphics, Marketing",1,0.03125,Low
+"Security Services, Car Parts and Accessories, Haulage, Motorbikes, Transport, Vehicle Services, Fleet management, GPS tracking, Cctv",1,0.03125,Low
+"Wine and Beer, Whisky and Spirits, Beverage & Drinks, Fmcg Distributors in Zambia, Beverage Companies in Zambia, Food and Beverage, Whole Sale, Alcohol, Marketing",1,0.03125,Low
+"Advertising, Online Advertising, Web Design, Web Development, Web Services, SEO, Web development, Web Design, Online advertising",1,0.03125,Low
+"Electronic Equipment, Tigmoo",1,0.03125,Low
+"Farming, Agricultural Equipment, Massey Ferguson Tractors",1,0.03125,Low
+"Farming, Agricultural Equipment, Tractor Parts and Spares, Tractor Dealers In Zambia, Brand New Massey Ferguson In Zambia, Tractors Company In Zambia",1,0.03125,Low
+"Cleaning Equipment & Services, General Business, Vehicle Services, Transport Agents, Freight Forwarders, Zambia revenue authority",1,0.03125,Low
+"Home and Garden, Home Decor, Building Materials, Construction Equipment, Construction Services, Decorators",1,0.03125,Low
+"Security Services, Security, Cctv, Security",1,0.03125,Low
+"Web Development, Content Management, Database Driven Websites, Ecommerce, Web Services, Website Maintenance, Web development, Web Design",1,0.03125,Low
+"Web Design, Graphic Design, Search Engine Optimisation, Web Designers, Web Development, Web Hosting in Zambia, seo in Zambia",1,0.03125,Low
+"Advertising, Brand Management, Disinfecting Services",1,0.03125,Low
+"Health and Safety, Saftey Equipment, Industrial Automation, Machine Vision, Auto Services, Auto Supplies, Fleet management",1,0.03125,Low
+"Advertising, Overseas Business, Import and Export Agents, Small Business, Web Development, Ecommerce, import and export",1,0.03125,Low
+"Civil Engineering, Farming, Agricultural Supplies, Industrial Services, Construction, Vehicle Services",1,0.03125,Low
+"Industrial Supplies, Factories, Steel Products, Cable Tray, Enclosure, Feeder Pillar",1,0.03125,Low
+"Web Design, Web Development, Database Driven Websites, Ecommerce, Web Services, Domain Name Registration, Website Design in Zambia",1,0.03125,Low
+"Farming, Agricultural Consultant, Agricultural Services, Agriculture, Food Safety",1,0.03125,Low
+"Security Services, Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Agriculture, Car Parts and Accessories, Amiran Zambia, Solar energy equipment",1,0.03125,Low
+"Printing, Design and Print, Tailors and Alterations, Clothing and Accessories, Children's Clothing, Uniforms, Branding, Printing",1,0.03125,Low
+"Consultants, Overseas Business, Investment Companies, Legal Services, Business Management Consulting, Legal Services, Financial advisory",1,0.03125,Low
+"Car Parts and Accessories, Car Rental, Vehicle Services, Performance Centre, Headlight Restoration Near Me, Auto Performance Centre, Auto Performance, Automotive Performance Center, Automotive Performance, Automotive Performance Centre, Lusaka Automotive Service, Motor car repairs",1,0.03125,Low
+"Internet Service Providers, Banks, Credit Unions, Electrical Goods, Air Conditioning",1,0.03125,Low
+"General Business, Barfig Zambia, Barfig Swim Pool Ltd, Barfig, Barfig Swim Pools Ltd",1,0.03125,Low
+"Online Content, Research and Reference, Energy Suppliers, Renewable Energy, Environmental Services, Environment",1,0.03125,Low
+"Human Resources, Employee Surveys, Employment Training, HR Consultancy, HR Outsourcing, Performance Management",1,0.03125,Low
+"Clothing and Accessories, Fashion Accessories, Shoes, Bags, Department Stores, Electrical Goods, Electronics, Furniture, Shoes",1,0.03125,Low
+"Advertising, Graphic Design, Online Advertising, Social Media, Web Design, Graphic Design, Website Designing, Lusaka zambia, Web Design, Marketing, Graphic design",1,0.03125,Low
+"General Office Services, Stationery, Farming, Agriculture, Jewellery, Aluminium, Capital Fisheries",1,0.03125,Low
+"Brokers, Investment Companies, Insurance Companies, Farming, Agriculture, Jewellery, Aluminium",1,0.03125,Low
+"Oil & Gas Companies, Filling Stations in Zambia",1,0.03125,Low
+"Cleaning Equipment & Services, Retail Services, Retail and Shop Cleaning, Laundry and Dry Cleaning, Cleaning, WINDOW CLEANING, CLEANING MATERIALS, Cleaning services, Pest Control",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Stationery, Printing, Secretarial Services, Internet Service Providers, Networking, Computer Networking, Audit and Accounting, Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Industrial Services, Mobile Phone Shops, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent",1,0.03125,Low
+"Air Travel, Air Transport, Flights, Safari, Air charter",1,0.03125,Low
+"Advertising, Advertising Agencies, Market Research, Digital Media, Web Services, Advertising Agency in Lusaka",1,0.03125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Building Materials, Chemicals, Plastic Products, Paint Companies in Zambia, Decotex Paints Prices, Decotex Paint Prices, Decotex",1,0.03125,Low
+"General Business, Consulting, Banks, Credit Unions, Business Management Consulting, Financial Activity, Farming, Agriculture, Environment, Tourism, Agriculture",1,0.03125,Low
+"Travel Agents, Air Travel, Car hire, Safari, Travel, Zambia, Tours",1,0.03125,Low
+"Retail Services, Point of Sale Solutions, Computer Software Solution, Web Development, Ecommerce, mobile application, Point of Sale, Software solutions, Web development",1,0.03125,Low
+"Apartments, Tour Operators, Tourist Information, Travel Agents, Visa Agencies, Places to Visit, Air Travel, Travel, Tourism, Accommodation, Car rental",1,0.03125,Low
+"Energy Suppliers, Electricity Suppliers, Solar Energy, Electrical Service, Solar Panels",1,0.03125,Low
+"General Business, Health and Safety, Consultants, Investment Companies, Insurance Companies, Financial Activity, Insurance Services, Construction, Retirement, First National Bank",1,0.03125,Low
+Payroll Services,1,0.03125,Low
+"Food Manufacturing, Food Processing, Food Retailers, Airports, Car Rental, Shipping & Port Agent",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Stationery, Printing, Secretarial Services, Security Services, Communications, Internet Service Providers, Networking, Computer Networking, Audit and Accounting, Energy Suppliers, Solar Energy, Engineers, Farming, Agriculture, Jewellery, Aluminium, Air Transport, Car Parts and Accessories, Logistics, Vehicle Services, Shipping & Port Agent",1,0.03125,Low
+"Advertising, Advertising Agencies, SMS Marketing, Advertising Equipment, Logistics, Auto Repair",1,0.03125,Low
+"Consultants, Market Research, Market Research Consultants, Research and Development, Food Safety, Consultancy, Training",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Manal Investment, Classecon Roofing Sheets, Classecon, Steel Companies in Zambia",1,0.03125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Beverage & Drinks, Plastic Bottle Manufacturers in Zambia, Manufacturing Companies in Lusaka, Beverage Companies in Zambia, Mmi Steel Lusaka, Amiran Zambia, Heinrich's Beverages",1,0.03125,Low
+"Real Estate Agents, Realtors",1,0.03125,Low
+"Conferences, Event Services, Event Management, Hospitality Management",1,0.03125,Low
+"Advertising, Brand Management, Information Services, Test",1,0.03125,Low
+"Advertising, Social Media, Logos",1,0.03125,Low
+"Energy Suppliers, Generator Hire, Load shedding",1,0.03125,Low
+"Vehicle Services, Motor car repairs",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Farming, Agriculture, Jewellery, Aluminium, Air Transport, Vehicle Services, Shipping & Port Agent",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent, Mercury Address, Mecury, Marcury, Mobile Express Lusaka, Mercury Couriers Zambia, Mercury Courier, Mercury Express, Mercury Zambia, Mercury, Mercury Couriers, Mercury Logistics",1,0.03125,Low
+"Advertising, Advertising Agencies, Brand Management, Music Production, Adverts",1,0.03125,Low
+"Insurance Companies, Financial Activity, Construction, Mount Meru Petroleum Zambia, Mount Meru Zambia, Mount Meru Zambia Head Office, Mount Meru Zambia Contact Details, Construction companies",1,0.03125,Low
+"Human Resources, Immigration Consultants, Migration Services, Small Business, Business Immigration, BUSINESS ADVISORY",1,0.03125,Low
+"Retail Services, Packaging Solutions, Food Retailers, Wholesalers, Farming, Wood Products, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Kitchen Equipment, Jewellery, Textile, Aluminium, Chemicals, Plastic Products, Vehicle Services, Packaging Companies in Lusaka, Garage",1,0.03125,Low
+Aviation,1,0.03125,Low
+"Doctors and Clinics, Legal Aid Address",1,0.03125,Low
+"Cleaning Equipment & Services, Civil Engineering, Building Materials, Construction Services, Chemicals, Pest Control",1,0.03125,Low
+"Retail Services, Retail Supplies, Small Business, Wholesale Traders, Food Retailers, Food Supplies, Farming, Agricultural Supplies, Factories, Steel Products, Aluminium, Construction, Logistics, Real estates, Equipment, Alluminium, Suppliers, Transporters, Industry, Storage, Manufacturing, Building, Contractors, Business, Steel, Services, Warehousing, Wood, Shops, Agriculture",1,0.03125,Low
+"Farming, Animal Feed, Novatek Zambia, Investorpass, Shareholders, Luse, Zamleather, Bread, Flour, Edible oils, Dairy products, Milk, Eggs, Chickens, Pork, Beef, Agri-business, Contact, Share quote, Annual report, Corporate, Media centre, Investor relations, West africa, Zambeef, Home, Zambia",1,0.03125,Low
+"Food Manufacturing, Food Retailers, Food Supplies, Food Products, parmalat, Diamond products",1,0.03125,Low
+"Beauty Professionals, Doctors and Clinics, Medical Clinic, Nursing and Care, Healthcare Products, Healthcare Lusaka",1,0.03125,Low
+"Web Design, Graphic Design, Web Development, Content Management, Web Services, hosting, Design, Website, Development, Zambia",1,0.03125,Low
+"Weddings, Bridal Wear, Industrial Services, Clothing and Accessories, Pep Stores Zambia Working Hours, Pep Store Email Address, Pep Stores",1,0.03125,Low
+"General Office Services, Stationery, Insurance Companies, Financial Activity, Civil Engineering, Engineers, Engineering, Building Materials, Construction Services, Construction, Vehicle Services, Gnm Projects Zambia, Construction Companies in Zambia, Construction companies in Lusaka",1,0.03125,Low
+"Retail Services, Packaging Solutions, Point of Sale Solutions, Small Business, Business Support Services, Computer Consumables, Printer Supplies, Audit and Accounting, Industrial Automation, Industrial Computers, Barcodes, It services",1,0.03125,Low
+"Sports, Fitness Equipment, Fitness, Health Coach, Personal Trainers, Weight Loss, Sports, Training",1,0.03125,Low
+"Human Resources, HR Consultancy, Market Research, Data Collection, Research and Development, Consultancy, Research",1,0.03125,Low
+"Retail Services, Packaging Solutions, Farming, Wood Products, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Hardware Stores, Home and Garden, Jewellery, Textile, Building Materials, Chemicals, Plastic Products",1,0.03125,Low
+"Schools, Primary Schools, Secondary Schools, After School Programs, Private school",1,0.03125,Low
+"Farming, Agriculture, Home and Garden, Saro Contact, Saro, Saro Zambia, Saro Agro Lusaka, Saro Zambia Contact Details, Saro Lusaka, Saro Agro Contact Details, Saro Agro, Lighting",1,0.03125,Low
+"Real Estate Agents, Vacation Rentals, Apartment Rental, Realtors",1,0.03125,Low
+"Beauty Products, Cosmetics",1,0.03125,Low
+"Advertising, zra returns, Company Registration, Logo designing, Business cards, Printing",1,0.03125,Low
+"Advertising, Advertising Agencies, Brand Management, Graphic Design, Online Advertising, Digital Media, social media marketing, digital marketing, Graphics Design",1,0.03125,Low
+"General Office Services, Stationery, Communications, Telecom Consultants, Networking, Computer Networking, Networking Consultants, WiFi, Hardware Stores, Stationery suppliers",1,0.03125,Low
+"General Office Services, Stationery, Arts and Crafts, Industrial Services, Steel Products, Home and Garden, Carpet & Rug Dealers-New, Jewellery, Mobile Phone Shops, Car Parts and Accessories, Car Rental, Vehicle Services, Southern Cross Motors",1,0.03125,Low
+"Air Travel, Air Transport, Airlines",1,0.03125,Low
+"Locksmiths, Key cutting",1,0.03125,Low
+"Advertising, Brand Management, Consultants, Market Research, Digital Media",1,0.03125,Low
+"Human Resources, Customer Services, FinTech (Financial Technology), Financial Activity",1,0.03125,Low
+"Opticians, Optical Shop, opticians in lusaka",1,0.03125,Low
+"Advertising, Photography Services, Photography, Wedding Photography, Event Services, Event Photography, Weddings, Event management",1,0.03125,Low
+"Attractions, Outdoor Activities, Travel Agents, Victoria falls",1,0.03125,Low
+"Advertising, Graphic Design, Logo Design, Magazine Publishing, Media Consultancy, Digital Media, Brand Identity, Print, Graphic design",1,0.03125,Low
+"Civil Engineering, Construction, Vehicle Services",1,0.03125,Low
+"Building Materials, Construction Services",1,0.03125,Low
+"Education, Universities, Education",1,0.03125,Low
+"Industrial Services, Clothing and Accessories, Shoes, Chemicals, Zamleather Contact Number, Footwear, Investorpass, Shareholders, Luse, Zamleather, Bread, Flour, Edible oils, Dairy products, Milk, Eggs, Chickens, Pork, Beef, Agri-business, Contact, Share quote, Annual report, Corporate, Media centre, Investor relations, West africa, Zambeef, Home, Zambia",1,0.03125,Low
+"Human Resources, Human resource, Zambia",1,0.03125,Low
+"Communications, Mobile Phone Services, Web Development, Web Services, Website Management, Information Technology, Branding, Web Design, Marketing",1,0.03125,Low
+"Education, Finance, Accountancy, Acca, Accounting",1,0.03125,Low
+"Insurance Companies, Financial Activity, Farming, Wood Products, Hardware Stores, Building Materials, Construction, Milling Companies, Milling Companies in Lusaka, List of Milling Companies in Zambia, Milling Companies in Zambia, African Milling, Construction companies",1,0.03125,Low
+"Civil Engineering, Engineers, Engineering, Steel Products, Vehicle Services, Fuel Transportation Companies, Agrofuel Zambia, Agrofuel, Agro Fuel, Transport Companies in Zambia",1,0.03125,Low
+"Advertising, Advertising Agencies, Insurance Companies, Tax Consultants, Civil Engineering, Construction, Logistics, Transport, Real Estate Agents, Fuel Transportation Companies, Agrofuel Zambia, Agrofuel, Agro Fuel, Transport Companies in Zambia, Insurance agents",1,0.03125,Low
+"Advertising, Human Resources, Employment Agencies, Employment Training, Education, Jobs in Zambia, Zambia Jobs",1,0.03125,Low
+"Legal Services, Detective Agencies, Anti Corruption Organizations, Integrity",1,0.03125,Low
+"Insurance Companies, Financial Activity, Industrial Services, Steel Products, Home and Garden, Construction, Car Parts and Accessories, Car Rental, Vehicle Services",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Stationery, Printing, Secretarial Services, Internet Service Providers, Arts and Crafts, Audit and Accounting, Home and Garden, Carpet & Rug Dealers-New, Jewellery, Mobile Phone Shops, Air Transport, Car Parts and Accessories, Car Rental, Logistics, Vehicle Sales, Vehicle Services, Shipping & Port Agent, Autoworld Contact Details, Autoworld Contact, Autoworld, Autoworl, Auto-world, Auto World Zambia Contacts, Auto World Woodlands, Auto World Phone Number, Auto World Contact Number, Auto World Zambia, Auto",1,0.03125,Low
+"General Office Services, Stationery, Arts and Crafts, Home and Garden, Carpet & Rug Dealers-New, Jewellery, Mobile Phone Shops, Car Parts and Accessories, Car Rental, Vehicle Sales, Vehicle Services, Lusaka Automotive Service",1,0.03125,Low
+"Vehicle Sales, Performance Centre, Headlight Restoration Near Me, Auto Performance Centre, Auto Performance, Automotive Performance Center, Automotive Performance, Automotive Performance Centre",1,0.03125,Low
+"Vehicle Services, Mechanics, Auto Repair, Auto Insurance, Auto Services, Tire Dealers, Gearbox, Service",1,0.03125,Low
+"Pumps Manufacturers, Pool Construction Companies Near Me, Barfig Zambia, Barfig Swim Pool Ltd, Barfig, Barfig Swim Pools Ltd",1,0.03125,Low
+"General Office Services, Meeting Room Hire, Office Equipment, Internet Service Providers, Internet Cafes, meeting, Internet, Hire",1,0.03125,Low
+"Advertising, Advertising Agencies, Consultants, Tax Consultants, Business Management Consulting, Civil Engineering, Engineers, Engineering, Vehicle Services",1,0.03125,Low
+"General Office Services, Stationery, Book World Zambia, Stationery suppliersstationers",1,0.03125,Low
+"Security Services, Event Services, Event Security Services, Industrial Premises, Security Fencing, Security, Rapid Response, Cctv, Alarms",1,0.03125,Low
+"Retail Services, Packaging Solutions, Farming, Agricultural Supplies, Wood Products, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Hardware Stores, Home and Garden, Jewellery, Textile, Building Materials, Chemicals, Plastic Products",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Contract Cleaners, cleaning equipment, Cleaning",1,0.03125,Low
+"Advertising, Photography Services, Web Design, Multimedia Design, Film, Television and Video, Animation, Film, Branding, Design, Sound",1,0.03125,Low
+"Advertising, Advertising Agencies, Insurance Companies, Tax Consultants, Logistics, Real Estate Agents, Sonex Hardware, Insurance agents",1,0.03125,Low
+Chemicals,1,0.03125,Low
+"Human Resources, Employment Agencies, Online Content, Classifieds",1,0.03125,Low
+"Marketing, Best deals in Zambia, Deals in Zambia",1,0.03125,Low
+"Catering, Food Delivery, Restaurants, Fast Food, Pizza Restaurants, Take Aways, Lunch Delivery, Pizza Delivery, Debonairs, Debonairs Contact Number, debonairs pizza, debonairs zambia",1,0.03125,Low
+"General Office Services, Postal Services, Logistics, Shipping & Port Agent, Post Offices, Dhl Zambia Address, Dhl in Zambia, Dhl Contact, Dhl Contact Number, Dhl Zambia Contact Number, dhl zambia contact, dhl zambia, Courier, Customs clearance",1,0.03125,Low
+"Advertising, Advertising Agencies, Design Agencies, Media Consultancy, Online Advertising, Digital Media, App Development, social media marketing, digital marketing, Web Design, Graphic design",1,0.03125,Low
+"Advertising, Marketing, Communications, Mobile Phone Services, Online Content, Leisure, Phones, Houses, Laptops, Computers",1,0.03125,Low
+"General Office Services, Event Services, Business Management Consulting, Financial Activity, Environmental Services",1,0.03125,Low
+"Architectural Services, Construction Services, Construction, Electrical installations, Refrigeration",1,0.03125,Low
+Web Services,1,0.03125,Low
+"Farming, Agricultural Supplies, Agriculture, Agriculture Companies in Zambia, Food Reserve Agency",1,0.03125,Low
+"Food Retailers, Food Products",1,0.03125,Low
+"Advertising, Advertising Agencies, Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Insurance Companies, Tax Consultants, Audit and Accounting, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent, Real Estate Agents, Global logistics",1,0.03125,Low
+"Retail Services, Packaging Solutions, Food Retailers, Supermarkets, Wholesalers, Farming, Agricultural Supplies, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Mining Companies in Zambia, Gourock Zambia",1,0.03125,Low
+"Brokers, General Business, Consultants, Small Business, Business Advice, Investment Companies, Insurance Companies, Legal Services, Insurance agentsinsurance brokers",1,0.03125,Low
+Auctioneers,1,0.03125,Low
+"Advertising, 3D Visualisations, Advertising Agencies, Brand Management, Design Agencies, Graphic Design, Branding, Graphic design, Advertising",1,0.03125,Low
+"Health and Safety, Emergency Preparedness, Occupational Health, Consultants, Environmental Services, Environmental Impact Assessment",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Contract Cleaners, Affordable",1,0.03125,Low
+"Hotels, Hotel, Accommodation",1,0.03125,Low
+"Training, Computer Software Solution, Computer Training, Point of Sale, Sage Pastel, payroll, Accounting software",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Farming, Agriculture, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Aluminium, Chemicals, Plastic Products, Kachema Butchery Lusaka, Kachema Meat Zambia, Butcheries in Lusaka, Kachema Meat Supplies, Kachema Meat Jobs, Kachema, Kachema Meat, Kachema Meat Suppliers Address",1,0.03125,Low
+"Air Travel, Air Transport",1,0.03125,Low
+"Farming, Agriculture, Jewellery, Aluminium, Chemicals, Plastic Products, King Chemicals Limited, King Chemicals, Kings Chemicals Limited, Kings Chemicals, Kings Chemicals Zambia",1,0.03125,Low
+"Advertising, Newspaper Publishers, Online Advertising, Online Content, Classifieds, News, Technology",1,0.03125,Low
+"Software Applications, Car Rental, car rental zambia",1,0.03125,Low
+"Retail Services, Packaging Solutions, Security Services, Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Agriculture, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Kitchen Equipment, Jewellery, Textile, Aluminium, Building Materials, Chemicals, Plastic Products, Car Parts and Accessories, Vehicle Services, Companies in Lusaka, Lamsat Zambia, Lamasat Zambia Contact Details, Lamasat International, Lamasat Lusaka, Lamasat Contact Details, Lamasat, Lamasat Zambia, water tanks",1,0.03125,Low
+"Medical Equipment, Laboratory Testing, Nkanza Laboratories Zambia Contact Details",1,0.03125,Low
+"Advertising, 3D Displays, Advertising Agencies, Brand Management, Corporate Identity Design, Digital Signage, Logo design",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent, Zambia, Lusaka",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Civil Engineering, Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Industrial Services, Construction, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent",1,0.03125,Low
+Mechanics,1,0.03125,Low
+"Advertising, Advertising Agencies, Human Resources, Consultants, Tax Consultants, Business Management Consulting",1,0.03125,Low
+"Web Design, Web Designers, Web Development, Web Hosting, Web Services, Domain Name Registration, website hosting, Web hosting",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products",1,0.03125,Low
+"Food Retailers, Butchers, Butchery",1,0.03125,Low
+"Consultants, Investment Companies, Insurance Companies, Financial Activity, Construction, List of Insurance Companies in Zambia, Insurance Companies in Zambia",1,0.03125,Low
+"Doctors and Clinics, Hospitals, Eye Care - Vision Care, Pediatrician, Oncologists, Ophthalmologists, Hospitals Near Me, Private Clinics in Lusaka, Hospital",1,0.03125,Low
+"Retail Services, Packaging Solutions, Civil Engineering, Farming, Agricultural Supplies, Wood Products, Industrial Services, Hardware Stores, Building Materials, Construction Services, Hardware Shops in Lusaka, Hardware Shop Near Me, Micmar Hardware, Micmar Zambia, Micmar",1,0.03125,Low
+"Health and Safety, Saftey Equipment",1,0.03125,Low
+"Networking, Cabling and Fibre Optics, Film, Television and Video, Film and TV Production, TV and Film Graphics, Web TV, Multichoice Zambia Lusaka, multichoice, dstv contact, dstv zambia contact number, dstv zambia contact, dstv zambia, dstv, multichoice zambia",1,0.03125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Packaging Companies in Zambia, Nampac Zambia, Nampak, Nampak Zambia, Glass Bottle Manufacturers in Zambia",1,0.03125,Low
+"Banks, Credit Unions, Natsave Bank",1,0.03125,Low
+"Architectural Services, Architecture, Building, Architects, Construction",1,0.03125,Low
+"General Office Services, Stationery, Networking, Computer Networking, Hardware Stores, computer hardware, Telecommunication, Electronics, Stationery suppliers",1,0.03125,Low
+"Overseas Business, Import and Export Agents, Retail Services, Packaging Solutions, Logistics, Removals and Relocation, Removals, Moving, Clearing, Freight",1,0.03125,Low
+"Energy Suppliers, Solar Energy, Engineers, Office Machines Zambia, Office Machines, Solar energy equipment",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Farming, Wood Products, Industrial Services, Clothing and Accessories, Headwear, Hardware Stores, Home and Garden, Jewellery, Textile, Building Materials, Chemicals, Plastic Products, Mri Seed Zambia, Afriseed, Syngenta Zambia, Agriculture Companies in Zambia, Novatek Zambia",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Human Resources, Employee Relocation, Consultants, Printing, Secretarial Services, Internet Service Providers, Investment Companies, Insurance Companies, Audit and Accounting, Financial Activity, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent",1,0.03125,Low
+"Conferences, Event Equipment, Audio Visual, Conference Products, Sound Equipment Hire, Event Services, Interpretation, Translation, Event management",1,0.03125,Low
+"Weddings, Bridal Wear, Wedding Accessories, Clothing and Accessories, Uniforms, Interior Design",1,0.03125,Low
+"Catering Equipment, Bar Equipment, Coffee Machines, Water Filters and Coolers, Catering, Catering Supplies, Catering Schools in Lusaka, products, Zambia, Lusaka, Catering equipment",1,0.03125,Low
+"Retail Services, Sales Outsourcing, Arts and Crafts, Electrical Goods, Camera Shops, Computers, Durable Goods, Electronic Equipment, Gadgets, Gifts, Accessories, Home and Garden, Appliances, Housewares, Shops, Outlets, Vehicle Services, radian stores zambia, radian stores, Diamond dealersart dealers",1,0.03125,Low
+"Film, Television and Video, Media Production, Video production",1,0.03125,Low
+"Conferences, Conference Venues, Cafes, Restaurants, Fine Dining Restaurants, Hotels, Lodge, Restaurant",1,0.03125,Low
+"Universities, Education",1,0.03125,Low
+"Software Applications, Web Design, Graphic Design, Film, Television and Video, TV and Film Graphics, Education, Social Media Marketing Agency",1,0.03125,Low
+"Farming, Agriculture, Jewellery, Aluminium, Car Parts and Accessories, Vehicle Services, Diamond products",1,0.03125,Low
+"Civil Engineering, Engineers, Engineering, Building Materials, Construction Services, Construction, Vehicle Services, Gnm Projects Zambia, Electrical Companies in Zambia, Construction Companies in Zambia, Mining Companies in Zambia, Construction companies in Lusaka",1,0.03125,Low
+"Brokers, Consultants, Insurance Companies, Consultancy, Insurance, Zambia",1,0.03125,Low
+"Construction Services, Carport Shades",1,0.03125,Low
+"Education, Business Education, Entrepreneurship, Zambia, Education, Training",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Furniture Stores in Lusaka Zambia, Stationery Shops in Lusaka, Printing Companies in Zambia",1,0.03125,Low
+"Internet Service Providers, Web Design, Home and Garden, Construction Services, Binding, Landscape design, Digital printing, T-Shirt printing, Graphic design",1,0.03125,Low
+"Consultants, Energy Suppliers, Renewable Energy, Solar Energy, Sustainable Energy, Electrical Service, LED lighting",1,0.03125,Low
+"Marketing, Computer Services, Software Applications, Web Design, Information technology, Web services, Web hosting, Computer services, Marketing",1,0.03125,Low
+"Human Resources, Assessment and Development Consultants",1,0.03125,Low
+"Web Development, Database Driven Websites, Web Services, Website Management, website hosting, Website development, Website design, Website maintenance",1,0.03125,Low
+"Car Parts and Accessories, Vehicle Sales, Vehicle Services",1,0.03125,Low
+"Farming, Agricultural Equipment, Agricultural Supplies, Tractor Parts and Spares, Agriculture",1,0.03125,Low
+"Advertising, Networking, Software Applications, Web Design, Web Services, Cyber Security, Cyber Security, digital marketing, Software",1,0.03125,Low
+"Software Engineering, Financial Activity, Logistics",1,0.03125,Low
+"Cleaning Equipment & Services, Retail Services, Dry Cleaning, Chemicals, Chemicals Cleaning, Cleaning, Cleaning Companies In Zambia, Cleaning services",1,0.03125,Low
+"Travel Agents, Air Travel",1,0.03125,Low
+"Consultants, Web Development, Ecommerce, Translation Services, Visa Agencies, Airports, Car hire, Web Design",1,0.03125,Low
+"Advertising, Drilling, Borehole",1,0.03125,Low
+"Farming, Agricultural Consultant, Agricultural Services, Agricultural Equipment, Agricultural Supplies, Agriculture, Zambia Farming, Irrigation Companies in Zambia, Agriculture Companies in Zambia, Drip Irrigation, Irrigation, Solar energy equipment",1,0.03125,Low
+"Farming, Agricultural Supplies, Agriculture, Chemicals",1,0.03125,Low
+"Local Authorities, Government Services, Government Offices, Insurance agents",1,0.03125,Low
+"General Business, Pubs and Clubs, Breweries, Food Retailers, Wine and Beer, Beer and Home Brewing, Foreign Beer, Wine and Beer Wholesale, Heinrich's Beverages, Zambia Breweries, zambian breweries contact details, zambia breweries address, zambian breweries address, zambian breweries, Beer",1,0.03125,Low
+"Construction Services, Roofing, Drywall, Renovation, Buildings, Building Maintenance, Contractor, PAINTING, Renovations, Roofing, Interior design",1,0.03125,Low
+"Advertising, Advertising Agencies, Online Advertising, Online Content, Classifieds, Houses, Real estates, Internet, Cars",1,0.03125,Low
+"Advertising, jobs in lusaka, go zambia jobs",1,0.03125,Low
+"General Business, Consultants, Marketing, Small Business, Buying Group, Communications, e-commerce, Internet",1,0.03125,Low
+"Online Content, News, Film, Television and Video, Music, Zambian music",1,0.03125,Low
+"Online Content, Lifestyle Management, Music",1,0.03125,Low
+"Music, Weddings, Wedding Music, Zambian music",1,0.03125,Low
+"Advertising, Advertising Agencies, Digital Media, Social Media, Public Relations, Online Content",1,0.03125,Low
+"Consultants, Investment Companies, Insurance Companies, Financial Activity, Construction, Zisc Insurance, Zisc, Zsic, Zsic Life Contacts, Zsic Life Address, Zsic Life",1,0.03125,Low
+"Health and Safety, Insurance Companies, Financial Activity, Insurance Services, Property Insurance, Health Insurance, Insurance",1,0.03125,Low
+"Retail Services, Packaging Solutions, Farming, Wood Products, Industrial Services, Clothing and Accessories, Headwear, Hardware Stores, Home and Garden, Jewellery, Textile, Building Materials, Chemicals, Plastic Products",1,0.03125,Low
+"Leisure, Restaurants, Apartments, Guest Houses, Hotels, Lodge Lusaka, Lodges in zambia, Hotels in zambia",1,0.03125,Low
+"Hotels, Motels",1,0.03125,Low
+"General Office Services, Stationery, Mobile Phone Shops, Car Parts and Accessories, Car Rental, Vehicle Services, Motor car repairs",1,0.03125,Low
+"Communications, Call Centres, Sports, Gambling, gambling",1,0.03125,Low
+"Banks, Credit Unions, Financial Activity, Personal Finance, financial services",1,0.03125,Low
+"Computer Software Solution, Software Applications, Web Development, Web Services, Website Maintenance, Information Technology, mobile app development, Cyber Security, social media marketing, Web development",1,0.03125,Low
+"Advertising, Advertising Agencies, Brand Management, Graphic Design, Digital Media, Digital Marketing, Marketing, Photography, Electrical Goods, advertising agency in zambia, marketing agency in zambia, digital marketing, Branding",1,0.03125,Low
+"Photography, Advertising Photography, Digital Photography Services, Fashion Photography, Graphic Photography, Photographers, cinematography, Film, Photography, Video production",1,0.03125,Low
+"Cleaning Equipment & Services, Landscaping",1,0.03125,Low
+"Information Technology, Information technology",1,0.03125,Low
+"Vehicle Services, Re Book, Paper Company Near Me, Book Stores in Lusaka, Book Shops Near Me, Book Hut Lusaka, Bookhut, Book Hut, Bookhut Zambia, Book Hut Zambia",1,0.03125,Low
+"Books, Re Book, Paper Company Near Me, Book Stores in Lusaka, Book Shops Near Me, Book Hut Lusaka, Bookhut, Book Hut, Bookhut Zambia, Book Hut Zambia",1,0.03125,Low
+"Property Development, Renovation, Building Maintenance, Construction Company, BUILDING MAINTENANCE",1,0.03125,Low
+"Transport, Truck",1,0.03125,Low
+"Pregnancy and Child Birth, Antenatal Classes, Maternity Services, Pregnancy Yoga Classes",1,0.03125,Low
+"Advertising, Magazine Publishing, Marketing, Retail Services, Retail, Publishing",1,0.03125,Low
+"General Office Services, Stationery, Farming, Wood Products, Industrial Services, Hardware Stores, Building Materials, Stationery suppliers",1,0.03125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Beverage Companies in Zambia, Zambia",1,0.03125,Low
+"Security Services, Insurance Companies, Financial Activity, Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Wood Products, Agriculture, Industrial Services, Electrical Service, Hardware Stores, Home and Garden, Building Materials, Construction Services, Construction, Car Parts and Accessories, Vehicle Services, Camco Agricultural, Camco Equipment Zambia Limited, Camco Equipment Zambia, Camco, Camco Zambia, camco lusaka, tractors for sale in zambia",1,0.03125,Low
+"Security Services, Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Agriculture, Industrial Services, Electrical Service, Construction Services, Construction, Car Parts and Accessories, Vehicle Services, Camco Agricultural, Camco Equipment Zambia Limited, Camco Equipment Zambia, Camco, Camco Zambia, camco lusaka",1,0.03125,Low
+"Doctors and Clinics, Shopping Centres, Vehicle Sales, Cfb Zambia, Cfb Medical Center, Cfb Lusaka, Cfb Locations, Cfb Jobs, Cfb Clinic Lusaka, Care For Business Hospital, Cfb Medical, Cfb Hospital Jobs, Cfb Contact Number, Cfb Hospital Lusaka, Cfb Hospital Address, Cfb Hospital, Care for business, Hospital services in lusaka zambia, Clinic services in lusaka zambia, Family medicine in lusaka zambia, Medical centres in lusaka zambia, Healthcare in lusaka zambia, Cfb medical centre, Emergency, Immunisation, Vaccinations, Clinic, Doctors rooms, Paedetrician, Obstetrics, Gynaecology, Medevac, Physician, Medical assistance, Doctor, General practice, Zambia, Lusaka, Auto centres, Ultrasound",1,0.03125,Low
+"Farming, Agricultural Services, Environmental Services, Plants",1,0.03125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Vehicle Services, Chloride Zambia Contact Details, Chloride Zambia, Exide Battery Zambia, Exide Battery Lusaka, Batteries",1,0.03125,Low
+"Clothing and Accessories, Lusaka Clothing Factory, Clothing Factory, City Clothing Factory",1,0.03125,Low
+"Doctors and Clinics, Community Health Centres, Dermatology, Disability Services, Doctors General Medicine, Hospitals, Medical Clinic, Physiotherapy, Podiatry, Ambulance Services, Sports Injury Clinics, STD and HIV Testing Clinic, Vasectomy Clinics, Health Care, Chiropractors, Urgent Care, Emergency Care, Physicians, Surgeons, Eye Care - Vision Care, Naturopaths, Anesthesiologists, Pediatrician, Endocrinologists, Gastroenterologists, Oncologists, Ophthalmologists, Osteopaths, Rheumatologists, Fertility Doctors for Infertility, Obstetricians, Religion",1,0.03125,Low
+"Food Manufacturing, Food Processing, Food Retailers, Bakers, Herbs and Spices",1,0.03125,Low
+"Farming, Agricultural Supplies, Industrial Services, Chemicals",1,0.03125,Low
+"Health and Safety, Software Applications, Software, Doctors and Clinics, Health Care",1,0.03125,Low
+"Catering, Food Delivery, Take Aways, Lunch Delivery, Pizza Delivery, Food Delivery, Indian food",1,0.03125,Low
+Travel Agents,1,0.03125,Low
+"Advertising, Graphic Design, Video Production, Digital Media, Web Design, Web Hosting",1,0.03125,Low
+"Printing, Print and Reprographics, LARGE FORMAT PRINTING",1,0.03125,Low
+"Advertising, Advertising Agencies, General Office Services, Electrical Goods, Air Conditioning, Refrigeration, Insurance agents, Air conditioning, Catering equipment",1,0.03125,Low
+"Tax Consultants, Audit and Accounting, Payroll Services, Immigration, Accounting",1,0.03125,Low
+"Advertising, Advertising Agencies, Consultants, Tax Consultants, Business Management Consulting, Energy Suppliers, Solar Energy, Transportation, Government, Solar energy equipment",1,0.03125,Low
+"General Office Services, Stationery, Networking, Computer Networking, Farming, Agricultural Supplies, Industrial Services, Mobile Phone Shops, Stationery suppliers, Office supplies",1,0.03125,Low
+"Farming, Animal Feed",1,0.03125,Low
+"Advertising, Graphic Materials Supply, Outdoor Advertising, T-Shirt Printing, Signs, Arts and Crafts, T-shirts printing, PAINTING",1,0.03125,Low
+"Information Technology, Automotive, Motorcar Accessories & Supplies, Tire Dealers, Fleet management, Tyre management, Tyres",1,0.03125,Low
+"Farming, Wood Products, Hardware Stores, Building Materials, Glass World Zambia",1,0.03125,Low
+"Energy Suppliers, Biomass Fuel",1,0.03125,Low
+"Advertising, Digital Marketing, Information Technology",1,0.03125,Low
+"Retail Services, Retail Supplies, Electrical Goods, Camera Shops, Computers, Hazida Ltd Lusaka",1,0.03125,Low
+"Health Care, Personal Care, Spirituality, Vitamins and Supplements",1,0.03125,Low
+"Colleges, Universities",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Retail Services, Packaging Solutions, Secretarial Services, Internet Service Providers, Audit and Accounting, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent, Place Details",1,0.03125,Low
+"Food Retailers, Butchers, Food Distributors",1,0.03125,Low
+"Investment Companies, Financial Activity, Government, financial services",1,0.03125,Low
+"Computer Services, Networking, Information Technology, It services, Computer services",1,0.03125,Low
+"Retail Services, Packaging Solutions, Food Retailers, Wholesalers, Pharmacies, Chemists, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Pharmaceutical Distributors in Zambia, Pharmaceutical Companies in Zambia, Biggest Pharma Companies in The World, Mining Companies in Zambia, Companies in Lusaka",1,0.03125,Low
+"Training, Computer Services, Networking",1,0.03125,Low
+"Aluminium, Vehicle Services, Wooden Doors, Doors, Garage",1,0.03125,Low
+"Advertising, Advertising Agencies, General Office Services, Stationery, Retail Services, Packaging Solutions, Insurance Companies, Tax Consultants, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Logistics, Vehicle Services, Real Estate Agents",1,0.03125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Plastic Bottle Manufacturers in Zambia",1,0.03125,Low
+"Farming, Agriculture, Jewellery, Aluminium, Kroupwood Zambia, Kroupwood, Wood, Diamond products",1,0.03125,Low
+"Human Resources, Consultants, Training, Management Consulting",1,0.03125,Low
+"Audit and Accounting, Banks, Credit Unions, Financial Activity, financial services, Accounting",1,0.03125,Low
+"Advertising, Design Agencies, Online Advertising, Digital Media, Social Media, Brand Identity, Social Media Management, Online marketing, Graphic design",1,0.03125,Low
+"Advertising, Photography Studio, Video Production",1,0.03125,Low
+"General Business, Bicycles",1,0.03125,Low
+"Complementary Therapy, Herbal Medicine, Doctors and Clinics, Medical Clinic, Chinese Herbal Medicine",1,0.03125,Low
+"Chemicals, Petroleum Products, Environmental, Engineering, Consultants",1,0.03125,Low
+"Bookmakers, Lotteries",1,0.03125,Low
+"Car Rental, Driving Schools, Logistics, Motorbikes, Vehicle Services, Towing Service, Transport and Logistics, Vehicle Valuation",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent, Lusaka Water and Sewerage Company",1,0.03125,Low
+"Schools, Pre-School, High Schools, International Schools, Cambridge IGCSE, Lusaka schools",1,0.03125,Low
+"Brokers, Consultants, Investment Companies, Insurance Companies, Financial Activity, Construction",1,0.03125,Low
+"General Business, Consultants, Investment Companies, Insurance Companies, Financial Activity, Insurance Services, Madison Insurance Zambia, Madison Insurance Contacts, Madison Contacts, Madison Contact Number, Insurance agentsinsurance brokers",1,0.03125,Low
+"Leisure, Restaurants, Take Aways, Wine and Beer, Whisky and Spirits, Hotels, Lodgeslodgessafari lodges",1,0.03125,Low
+"Lawyers, Business Law, Conveyancing Lawyers",1,0.03125,Low
+"FinTech (Financial Technology), Financial Activity, Payments, financial services",1,0.03125,Low
+"Advertising, 3D Visualisations, New Media, Video Production",1,0.03125,Low
+"Financial Activity, financial services",1,0.03125,Low
+"Retail Services, Web Development, Ecommerce, Grocery, Zambia",1,0.03125,Low
+"Steel Products, Building Materials, Construction, Roofing, Fencing and Fence Materials, Metals, Fencing, Steel",1,0.03125,Low
+"Security Services, Logistics, Package Shipping, Cargo Services",1,0.03125,Low
+"General Office Services, Stationery, Arts and Crafts, Ceramics, Wall Decor, Home and Garden, Mobile Phone Shops, Vehicle Services, Phoenix Hardware Zambia, Phoenix Hardware Lusaka, Hardware Stores in Zambia, Micmar, Lighting",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Security Services, Internet Service Providers, Insurance Companies, Audit and Accounting, Financial Activity, Construction, Air Transport, Car Parts and Accessories, Logistics, Vehicle Services, Shipping & Port Agent",1,0.03125,Low
+"General Business, Small Business, Business Loan, Financial Activity, financial services, lending",1,0.03125,Low
+"Printing, Mobile Phone Shops, Mobile Phones, Phone Accessories, Stationery Shops in Zambia, Label Printing Near Me, Book World Zambia, Desk",1,0.03125,Low
+"Human Resources, Employment Agencies",1,0.03125,Low
+"Human Resources, HR Outsourcing, Workforce Management, Job Vacancies, Recruitment",1,0.03125,Low
+"General Business, Travel agency",1,0.03125,Low
+"Printing, Communications, Mobile Phone Services, Web Development, Web Services, Website Management, Information Technology, Solar energy equipment",1,0.03125,Low
+"Aluminium, Building Materials, Construction, Carport Shades",1,0.03125,Low
+"Transport, Government Offices, RTSA",1,0.03125,Low
+"Consulting, Information Technology, Business Management Consulting, Industrial Services, Service Industry, Information technology",1,0.03125,Low
+"Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Industrial Services, Vehicle Services, Solar energy equipment",1,0.03125,Low
+"Farming, Tractor Parts and Spares, Car Parts and Accessories, Vehicle Sales, Vehicle Services, Auto Parts- New & Used, Parts, Trucks, Spare parts",1,0.03125,Low
+"Small Business, Business Networking, Home Business, Wholesale Traders, Beauty Products, Fragrance and Perfume",1,0.03125,Low
+"Communications, Delivery Service, Web Development, Ecommerce, Food Retailers, Catering, Food Delivery, Logistics, Delivery, Food and Beverage, e-commerce, Internet",1,0.03125,Low
+"General Business, Travel Agents, Information Services, Travel",1,0.03125,Low
+"Business to Business, Conferences, Hospitality",1,0.03125,Low
+"Advertising, Catalogue Designers, Web Design, Web Designers, Business Education",1,0.03125,Low
+"Market Research, Web Analytics, Computer Software Solution, Software Applications, Web Design, Search Engine Optimisation, Web Designers, Web Development, Content Management, Ecommerce, Web Hosting, Web Services, E-business Consultancy, Internet Security, Website Management, Website Maintenance, Website Monitoring, Website Performance, SEO, Information Technology, e-commerce, Mobile application development, Software development, Website design, Website maintenance, Domain name registration, Online advertising",1,0.03125,Low
+"Farming, Wood Products, Industrial Services, Steel Products, Hardware Stores, Home and Garden, Building Materials, Roof Tiles",1,0.03125,Low
+"Food Retailers, Bakers, Food Markets, Food Supplies, Grocery Shops, Fruit and Vegetables, Supermarket, Wine and Beer, Email Address For Shoprite Zambia, Shoprite Manda Hill Jobs, Shoprite Headquarters Address, Shoprite Zambia Address, Shoprite Zambia Contact Details, Shoprite Zambia, shoprite address, shoprite",1,0.03125,Low
+"Farming, Wood Products, Steel Products, Hardware Stores, Building Materials, Steel Companies in Zambia, Hardware Stores in Zambia, Hardware Shop Near Me",1,0.03125,Low
+"Advertising, Media Agencies, Sports, Event Services",1,0.03125,Low
+"Farming, Agricultural Supplies, Agriculture, Chemicals, Mri Seed Zambia, Afriseed, Syngenta Zambia, Companies in Lusaka, Agriculture Companies in Zambia",1,0.03125,Low
+"Computer Consumables, Computer Software Solution, Software Applications, Audit and Accounting, QUICKBOOKS, payroll, Business, Accounting software",1,0.03125,Low
+"Civil Engineering, Structural Engineers, Engineers, Engineering",1,0.03125,Low
+"Project Management, Film, Television and Video, Projector Hire and Sales, Investment Companies, Commercial Property, Real Estate Agents, Letting Agents, Property Consultants, Property Management, Realtors, Property Valuation, PROPERTY MANAGEMENT, Estate agency",1,0.03125,Low
+"E-Learning, Education, Universities",1,0.03125,Low
+"Insurance Companies, Financial Activity, Construction, Total Near Me, Total Contact Details, Total Head Office Address, Total Head Office, Total Zambia Head Office, Total Zambia Contact Details, Total Zambia Address, Total Zambia, Total Zambia Head Office Lusaka, Construction companies",1,0.03125,Low
+"Retail Services, Packaging Solutions, Software, Food Retailers, Supermarkets, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Trade Kings Zambia",1,0.03125,Low
+"Farming, Agricultural Equipment, Agricultural Supplies, Agriculture",1,0.03125,Low
+"Communications, Satellite Communications, Vehicle Services, Fuel monitoring, GPS tracking",1,0.03125,Low
+"Doctors and Clinics, Hospitals",1,0.03125,Low
+"Advertising, Media Agencies, General Business, Music",1,0.03125,Low
+"Retail Services, Packaging Solutions, Farming, Animal Feed, Poultry Housing Suppliers, Wood Products, Industrial Services, Clothing and Accessories, Headwear, Hardware Stores, Home and Garden, Jewellery, Textile, Aluminium, Building Materials, Chemicals, Plastic Products, Fisheries",1,0.03125,Low
+"Retail Services, Packaging Solutions, Fashion, Food Retailers, Supermarkets, Industrial Services, Clothing and Accessories, Headwear, Shoes, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products",1,0.03125,Low
+"Farming, Fertilizers",1,0.03125,Low
+"Human Resources, Employment Agencies, go zambia jobs, Jobs in Zambia, Zambia Jobs",1,0.03125,Low
+"FinTech (Financial Technology), Banks, Credit Unions, Financial Activity, financial services",1,0.03125,Low
+"Clothing and Accessories, Fashion Accessories, Shoes",1,0.03125,Low
+"Advertising, Advertising Agencies, Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Insurance Companies, Tax Consultants, Audit and Accounting, Air Transport, Car Parts and Accessories, Logistics, Vehicle Services, Shipping & Port Agent, Real Estate Agents",1,0.03125,Low
+"General Business, Web Development, Ecommerce, Software, SaaS, E-Commerce Platforms",1,0.03125,Low
+"General Business, Software Applications, Apps, Software",1,0.03125,Low
+"Consultants, Investment Companies, Insurance Companies, Zsic Life Contacts, Zsic Life Address, Zsic Life, Insurance agentsinsurance brokers",1,0.03125,Low
+"Insurance Companies, Financial Activity, Farming, Agricultural Supplies, Agriculture, Construction, Zambia Farming, Irrigation Companies in Zambia, Chilanga Cement, Lamasat, Camco Zambia, Construction companies",1,0.03125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Amigo Foods Zambia",1,0.03125,Low
+"Audit and Accounting, Air Travel, Air charter",1,0.03125,Low
+"Education, World Vision Zambia",1,0.03125,Low
+"Cleaning Equipment & Services, Dry Cleaning, Clothing and Accessories, Home and Garden, Carpet & Rug Dealers-New, Car Parts and Accessories, Vehicle Services, Key cutting, Laundry, Dry Cleaning",1,0.03125,Low
+"General Office Services, Stationery, Networking, Computer Networking, Hardware Stores, Stationery suppliers",1,0.03125,Low
+"General Office Services, Stationery, Networking, Computer Networking, Farming, Agricultural Supplies, Industrial Services, Mobile Phone Shops",1,0.03125,Low
+Industrial Equipment,1,0.03125,Low
+"Web Design, Graphic Design, Web Designers, best hyip templates, cheap hyip templates, hyip templates",1,0.03125,Low
+"Advertising, Advertising Agencies, General Office Services, Event Services, Insurance Companies, Tax Consultants, Business Management Consulting, Financial Activity, Energy Suppliers, Solar Energy, Industrial Services, Steel Products, Home and Garden, Logistics, Environmental Services, Real Estate Agents",1,0.03125,Low
+"General Office Services, Protective Clothing",1,0.03125,Low
+"Conferences, Restaurants, Apartments, Hotels, Colleges, Accommodation",1,0.03125,Low
+Doctors and Clinics,1,0.03125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Foam King Zambia Prices, Foam King Mattress Prices, Foam Companies Near Me, Form King Zambia, Foam King Mattress, Foam King, Foam King Zambia",1,0.03125,Low
+Colleges,1,0.03125,Low
+"Security Services, Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Agriculture, Industrial Services, Car Parts and Accessories, Solar energy equipment",1,0.03125,Low
+"Wine and Beer, FMCG, Brewery, Beverages, Alcohol",1,0.03125,Low
+"Home and Garden, Plumbing Materials, Building Materials, Construction Services, Roofing, Doors, floor tiles, Roofing, Construction, Building materials",1,0.03125,Low
+"Industrial Services, Steel Products, Home and Garden, Car Parts and Accessories, Car Rental, Vehicle Services, Hazida Ltd Lusaka, Southern Cross Motors, Motor car repairs",1,0.03125,Low
+"Advertising, Graphic Design, Logo Design, Online Advertising, Software Applications, Web Development, Printing and branding, App Development, Social Media Management, Software development, Web development",1,0.03125,Low
+"Arts and Crafts, Home and Garden, Carpet & Rug Dealers-New, Jewellery, Car Parts and Accessories, Car Rental, Vehicle Services, Helmets For Sale Near Me, Best of Bikes Lusaka, Honda, Honda Zambia",1,0.03125,Low
+"Banks, Credit Unions, Investrust Bank Online, Investrust Bank Login, Investrust Bank Branch Codes, Investrust Bank, Investrust, Invest Trust Bank, Investrust Bank Zambia, Investrust Bank Branches, Investrust Bank Contact Details, Investrust Bank Zambia Contact Details",1,0.03125,Low
+"Consultants, Market Research, Data Collection, Independent Research, Internet Surveys, Research and Development, Research",1,0.03125,Low
+"General Office Services, Stationery, Companies in Zambia, Stationery suppliers",1,0.03125,Low
+"Communications, Delivery Service, Mobile Phone Services, Computer Consumables, Computer Software Solution, Graphic Designs, Business Centre, Software, Computers, Advertising",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Security Services, Internet Service Providers, Insurance Companies, Audit and Accounting, Financial Activity, Construction, Air Transport, Car Parts and Accessories, Logistics, Vehicle Services, Shipping & Port Agent, Security Companies in Zambia",1,0.03125,Low
+"Retail Services, Packaging Solutions, Insurance Companies, Financial Activity, Food Retailers, Wholesalers, Farming, Agriculture, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Aluminium, Construction, Chemicals, Plastic Products, Mattress, Chamboniza Bedding Lusaka, Lamise Mattress, Manal Investment, Foam King Zambia Prices, Foam King Mattress Prices, Form King Zambia, Foam King Mattress, Foam King, Foam King Zambia",1,0.03125,Low
+"Farming, Agricultural Supplies, Industrial Services",1,0.03125,Low
+"Film, Television and Video, Multichoice Zambia Lusaka, multichoice, dstv zambia contact, multichoice zambia",1,0.03125,Low
+"Doctors and Clinics, Health Care",1,0.03125,Low
+"Online Content, Software Applications, Artificial Intelligence, Software, AgTech (Agricultural Technology), Aerospace, AgTech",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products, Vehicle Services",1,0.03125,Low
+"Advertising, Video Production, Web Design, Graphic Design, Web Development, Web Services, e-commerce, Software development, Web Design, Graphic design",1,0.03125,Low
+"Advertising, Advertising Agencies, Consultants, Investment Companies, Insurance Companies, Tax Consultants, Financial Activity, Insurance Services, Construction, Logistics, Auto Insurance, Real Estate Agents",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Civil Engineering, Farming, Wood Products, Agriculture, Hardware Stores, Jewellery, Aluminium, Building Materials, Construction Services, Phoenix Hardware Zambia, Phoenix Hardware Lusaka, Lusaka Hardware, Hardwares in Lusaka, Hardware Stores in Lusaka, Floor Tiles in Lusaka, Electrical Shops in Lusaka, Sarodi Lusaka, Sarodi Hardware Lusaka, Sarodi Hardware, Sarodi, Hardware Stores in Zambia, Hardware Shops in Lusaka, Micmar Zambia, Micmar, Zambia, Building materials",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Event Services, Audit and Accounting, Business Management Consulting, Financial Activity, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent, Environmental Services",1,0.03125,Low
+"Brokers, Consultants, Investment Companies, Insurance Companies, Insurance Companies in Zambia, Insurance agentsinsurance brokers",1,0.03125,Low
+"Arts and Crafts, Architectural Services, Aluminium, Building Materials, Construction Equipment, Construction Services, Alluminium",1,0.03125,Low
+"Computer Services, Hardware, Software, Web development, Networking, Printer supplies",1,0.03125,Low
+"General Business, Building Materials",1,0.03125,Low
+"Farming, Agriculture, Jewellery, Aluminium, Zambian Companies, Companies in Zambia, Diamond products",1,0.03125,Low
+"Insurance Companies, Financial Activity, Farming, Agriculture, Jewellery, Aluminium, Construction, Engen Head Office",1,0.03125,Low
+"General Business, Energy Suppliers, Renewable Energy, Energy",1,0.03125,Low
+"Conferences, Event Services, Hospitality Management, Restaurants, Apartments, Guest Houses, Hotels, Specialist Accommodation, Accommodation",1,0.03125,Low
+"Construction Services, Gardeners, Plumbers, Paving, Renovation, Building Maintenance",1,0.03125,Low
+"Security Services, Car Parts and Accessories, Vehicle Services, Security Companies in Zambia, Car security",1,0.03125,Low
+"General Office Services, Stationery, Human Resources, Customer Services, Retail Services, Arts and Crafts, Automotive, Automobile Batteries, Home and Garden, Carpet & Rug Dealers-New, Jewellery, Mobile Phone Shops, Car Parts and Accessories, Car Rental, Vehicle Services, Hankook Tyres, Tyreking, Tire King Zambia, Tyre King Zambia, Accessories",1,0.03125,Low
+"Storage Services, Transport, Removals and Relocation",1,0.03125,Low
+"Pumps Manufacturers, Water Man, Waterman Lusaka, Waterman Pumps, Waterman Zambia Contact Number, Waterman Zambia, Water pump",1,0.03125,Low
+"Car Parts and Accessories, Car Rental, Vehicle Services, Windscreen Repair Near Me, Windscreen, Car Window Screen Repair Near Me, Car Screen Repair Near Me, Auto Glass, Windscreen Shop Lusaka, Motor car repairs",1,0.03125,Low
+"Farming, Tractor Parts and Spares, Automotive, Motorcar Accessories & Supplies, Motorbikes, Motorbikes For Sale, Gatoma Motorcycle, Electric Motorcycle Scooter, Capital Fisheries, Helmets For Sale Near Me, Best of Bikes Lusaka, Honda, Honda Zambia, motorbike, Affordable, Motorbikes",1,0.03125,Low
+"Tourist Information, Tourism",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Farming, Agricultural Supplies, Agriculture, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Aluminium, Chemicals, Plastic Products, Investorpass, Shareholders, Luse, Zamleather, Bread, Flour, Edible oils, Dairy products, Milk, Eggs, Chickens, Pork, Beef, Agri-business, Contact, Share quote, Annual report, Corporate, Media centre, Investor relations, West africa, Zambeef, Home, Zambia",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Energy Suppliers, Solar Energy, Engineers, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products",1,0.03125,Low
+"Brokers, Consultants, Investment Companies, Insurance Companies, Insurance agentsinsurance brokers",1,0.03125,Low
+"General Office Services, Stationery, Printing, Clothing and Accessories, Apparel, Customs Clearing, Clearing and forwarding",1,0.03125,Low
+"Car Parts and Accessories, Vehicle Services, Auto Repair, Auto Services, Auto Parts- New & Used, Auto Supplies, Auto Spares",1,0.03125,Low
+"Advertising, Graphic Design, Online Advertising, advertisement, digital marketing, Graphic design",1,0.03125,Low
+"Doctors and Clinics, Medical Equipment, Laboratory Testing",1,0.03125,Low
+"Conferences, Event Equipment, Conference Products, Exhibition Stands, Event Services, Event Management, Exhibition, Events, Conference",1,0.03125,Low
+"Tour Operators, Activity Holidays, Tourist Information, Travel Agents, Air Travel, Adventure travel",1,0.03125,Low
+"Farming, Agricultural Supplies, Agriculture, Industrial Services, Shopping Centres, Chemicals, Vehicle Sales, Pharmacies Near Me, Veterinary, Auto centres",1,0.03125,Low
+"Doctors and Clinics, Hospitals, Beit Cure Hospital of Zambia",1,0.03125,Low
+"Advertising, Cameramen, Media Agencies, Website Designing",1,0.03125,Low
+"Advertising, Brand Management, Graphic Design, Signs, Printing, Design and Print, Lusaka, Books, Printing, Stationery",1,0.03125,Low
+"Doctors and Clinics, Hospitals, Cfb Zambia, Cfb Medical Center, Cfb Lusaka, Cfb Locations, Cfb Jobs, Cfb Clinic Lusaka, Care For Business Hospital, Cfb Medical, Cfb Hospital Jobs, Cfb Contact Number, Cfb Hospital Lusaka, Cfb Hospital Address, Cfb Hospital, Cfb medical centre",1,0.03125,Low
+"Weddings, Bridal Wear, Bridal Shops, Bridal shop",1,0.03125,Low
+"Energy Suppliers, Biomass Fuel, Renewable Energy, Solar energy equipment, Renewable energy",1,0.03125,Low
+"Advertising, Advertising Agencies, Graphic Design, Media Agencies, Online Advertising, Digital Media, Branding, Web Design, Video production, Graphic design",1,0.03125,Low
+"General Office Services, Stationery, Networking, Computer Networking, Weddings, Bridal Wear, Energy Suppliers, Solar Energy, Engineers, Clothing and Accessories, Mobile Phone Shops, Vehicle Services, Computer Xpress, Computer Stores Near Me, Computers Express, Computer Express Lusaka, Computer Express Zambia Contact Details, Computer Express Zambia, Computer Express Contact Details, Computer Express, Mobile Express Lusaka, Solar energy equipment",1,0.03125,Low
+"Tax Consultants, Audit and Accounting, Business Management Consulting, Financial Activity, payroll, Consulting, Accounting",1,0.03125,Low
+"Steel Products, Construction Services, Construction, Fencing and Fence Materials, Metals, Windows, Metal Fabrication, Electrical installations, Roofing, Welding",1,0.03125,Low
+"Laundry and Dry Cleaning, Dry Cleaning",1,0.03125,Low
+"Advertising, Brand Management, Printing, Design and Print, Web Design, Graphic Design, Web Design, Digital printing, Graphic design",1,0.03125,Low
+"Air Travel, Air charter",1,0.03125,Low
+"Industrial Automation, Assembly Equipment, Industrial Equipment, Equipment",1,0.03125,Low
+"Security, Fencing, Security, Property, Construction",1,0.03125,Low
+"Food Manufacturing, Food Consultants, Food Retailers, Food Supplies, Fruit Importers, Importers",1,0.03125,Low
+"Religion, Schools, Catholic Schools in Lusaka, Best Catholic Boarding Schools in Zambia",1,0.03125,Low
+"Communications, Delivery Service, Food Retailers, Organic Food Delivery, Catering, Food Delivery",1,0.03125,Low
+"Computer Software Solution, Computers Hardware, Networking, Software Applications, Web Design, Web Hosting, school management system, loan management system, IT CONSULTANCY",1,0.03125,Low
+"General Office Services, Stationery, Industrial Services, Steel Products, Home and Garden, Kachema Butchery Lusaka, Kachema Meat Zambia, Butcheries in Lusaka, Kachema Meat Supplies, Kachema Meat Jobs, Kachema, Kachema Meat, Kachema Meat Suppliers Address, Stationery suppliers",1,0.03125,Low
+"Clothing and Accessories, Shoes, Designer, Quality, Shoes",1,0.03125,Low
+"Schools, Kings, Schools in lusaka",1,0.03125,Low
+"Farming, Agricultural Equipment, Agricultural Supplies, Agriculture, Water Treatment, Home and Garden, Pop up sprinklers, Irrigation systems",1,0.03125,Low
+"Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Industrial Services, Hardware Stores, Vehicle Services, Wooden Doors, Sonex Hardware, Hardware Store, Lusaka Hardware, Hardwares in Lusaka, Hardware Stores in Lusaka, Hardware Stores in Zambia, Hardware Shops in Lusaka, Zambia, Solar energy equipment",1,0.03125,Low
+"Doctors and Clinics, Hospitals, Lusaka Eye Clinic, Chawama Eye Clinic, Eye Hospitals in Lusaka, Eye Clinics in Lusaka",1,0.03125,Low
+"Jewellery, Watches and Clocks, Online",1,0.03125,Low
+"Online Content, Software Applications, Camping and Caravans, Caravan Hire, Car Rental, Taxis, Taxi, Car hire, Travel",1,0.03125,Low
+"Shopping Centres, Vehicle Sales, Auto centres",1,0.03125,Low
+"Advertising, Graphic Design, Logo Design, Market Research, Digital Media, Marketing, digital marketing, Website design",1,0.03125,Low
+"Computer Software Solution, Computer Services, Computers Hardware, Networking, Cabling and Fibre Optics, Computer Networking, Photocopying Machine Near Me",1,0.03125,Low
+"General Business, General Office Services, Health and Safety, Garbage Removal, Event Services, Civil Engineering, Waste Management, Portable Toilet",1,0.03125,Low
+"Advertising, Logo Design, Web Design, Web Services, Website Management, Mail Services",1,0.03125,Low
+"Chemicals, Chemicals Cleaning, Alcohol, Manufacturing, Chemical",1,0.03125,Low
+"Schools, Private Schools in Zambia, Secondary Schools in Zambia, Private Schools in Lusaka, Catholic Schools in Lusaka",1,0.03125,Low
+"General Office Services, Stationery, Food Retailers, Wholesalers, Industrial Services, Vehicle Services, Electrical Shops in Lusaka, Stationery suppliers",1,0.03125,Low
+"Advertising, Social Media, Web Design, Graphic Design, Fashion, Graphic design, Advertising",1,0.03125,Low
+"Advertising, Graphic Design, Logo Design, Digital Marketing, Software Applications, Web Development, mobile app development, digital marketing, Website development, Logo design, Graphic design",1,0.03125,Low
+"Web Development, Ecommerce, Arts and Crafts, Home and Garden, Carpet & Rug Dealers-New, Jewellery, Vehicle Services, Diamond dealersart dealers",1,0.03125,Low
+"General Office Services, Stationery, Retail Services, Packaging Solutions, Farming, Agricultural Supplies, Agriculture, Industrial Services, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Aluminium, Chemicals, Plastic Products, Meat Processing Companies in Zambia",1,0.03125,Low
+"General Office Services, Stationery, Farming, Wood Products, Hardware Stores, Building Materials, Seedco Company, Seedco Contact Details, Seed Co Zambia, Seedco, Seedco Zambia, Stationery suppliers",1,0.03125,Low
+"Market Research, Web Services, Domain Name Registration, Website Maintenance, Film, Television and Video, Web TV, Social Media, Web Management, Web Design, Marketing, Video production",1,0.03125,Low
+"Energy Suppliers, Solar Energy, Inverter, Solar power",1,0.03125,Low
+"Communications, Wireless Services, Networking, Cabling and Fibre Optics, Industrial Premises, Security Fencing, Laundry, Security, Catering, Networking",1,0.03125,Low
+"Associations, World Vision Postal Address, World Vision Zambia Contact Details, World Vision Address, World Vision Zambia",1,0.03125,Low
+"General Business, Banks, Credit Unions, Financial Activity, Zanaco Branches, Zanaco Contact Number, Zanaco Contact, Zanaco Address, Zanaco Branches in Lusaka, Zanaco Phone Number, Zanaco Contact Details, Zanaco Contact Numbers, Zanaco Head Office Phone Number",1,0.03125,Low
+"Consultants, Investment Companies, Insurance Companies, Financial Activity, Construction, Zisc Insurance, Zisc, Zsic",1,0.03125,Low
+"Advertising, Social Media, Marketing, social media marketing, Advertising",1,0.03125,Low
+"Consultants, Consulting, Business Development, Business Management Consulting, Management Consulting",1,0.03125,Low
+"Artificial Intelligence, Software, Machine Learning, AgTech (Agricultural Technology), Farming, Agriculture, Business Intelligence, AgTech",1,0.03125,Low
+"Consultants, Tax Consultants, Audit and Accounting, Business Management Consulting, Payroll Services, Taxation, Consultancy, Accounting",1,0.03125,Low
+"Advertising, Catalogue Designers",1,0.03125,Low
+"Consulting, Business Management Consulting, Water Treatment, Environmental Services, Water",1,0.03125,Low
+"Doctors and Clinics, Medical Clinic, Health Care, Medical Equipment, Pharmaceuticals, Medical",1,0.03125,Low
+"Doctors and Clinics, Pet Vaccinations",1,0.03125,Low
+"Insurance Companies, Banks, Credit Unions, Financial Activity, financial services, Insurance",1,0.03125,Low
+"Printing, Design and Print, Small Business, Business Advice, Business Development, Advice",1,0.03125,Low
+"Wine and Beer, FMCG, Beverages, Food & beverages",1,0.03125,Low
+"Information Technology, Infrastructure, Nonprofit Organizations, Non Profit",1,0.03125,Low
+"Insurance Companies, Financial Activity, Construction, Milling Companies in Zambia, Flour, Lusaka, Construction companies",1,0.03125,Low
+"General Business, Food Retailers, Industrial Services, Food and Beverage, Manufacturing",1,0.03125,Low
+"General Office Services, Stationery, Stationery Shops in Lusaka, Dallas Stationery Lusaka, Stationery Suppliers in Zambia, Office Stationery, Stationery suppliers, Office equipment",1,0.03125,Low
+"Property Consultants, Property Management, Real estate, Property, Consultants",1,0.03125,Low
+"Networking, Software Applications, Information Technology, Software, Cyber Security, Information technology",1,0.03125,Low
+"Advertising, Graphic Design, Graphic Materials Supply, Web Design, Graphic design",1,0.03125,Low
+"Home Remodeling, Home Improvement, Tiles, Paint",1,0.03125,Low
+"Vehicle Services, Mechanics, Auto Repair",1,0.03125,Low
+"Financial Activity, Nonprofit Organizations, Non Profit, financial services",1,0.03125,Low
+"Retail Services, Communications, Delivery Service, Web Development, Ecommerce, Fashion, Beauty Products, Cosmetics, Electrical Goods, Consumer Electronics, e-commerce, Retail",1,0.03125,Low
+"General Business, Car hiring, financial services, Car rental",1,0.03125,Low
+"Conferences, Hotels, House, Guesthouse, Zambia, Lusaka, Hotel, Accommodation, Conferences",1,0.03125,Low
+"General Business, Fire Safety Equipment",1,0.03125,Low
+"Human Resources, Market Research, Small Business, Business Advice, Investment Companies, Tax Consultants, Business Consultancy, Market research",1,0.03125,Low
+"Advertising, Design Agencies, Digital Signage, Graphic Design, Graphic Materials Supply, T-Shirt Printing",1,0.03125,Low
+Computer Training,1,0.03125,Low
+"General Business, water tanks, Borehole drilling In zambia",1,0.03125,Low
+"Logistics, Transport, Vehicle Sales, Auto Repair, Courier Services, Cargo Services, Taxi, Courier, Transport, Logistics",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Air Transport, Car Rental, Logistics, Vehicle Services, Shipping & Port Agent",1,0.03125,Low
+"Restaurants, Take Aways, Wine and Beer, Whisky and Spirits, Hotels, debonairs pizza, Lusaka",1,0.03125,Low
+"Music, Zambian music",1,0.03125,Low
+"Pharmacies, Chemists, Drugstores",1,0.03125,Low
+"Doctors and Clinics, Medical Clinic, Health Care, Medical",1,0.03125,Low
+"Leisure, Hotels, Mika Hotel Kabulonga Contact Details, Mika Hotel Contact Details, Lodgeslodgessafari lodges",1,0.03125,Low
+"Business Development, Financial Activity, financial services",1,0.03125,Low
+"General Business, Consulting, Information Technology, Business Management Consulting, Information technology",1,0.03125,Low
+"Advertising, SMS Marketing, Marketing, facebook marketing, Online marketing, Marketing",1,0.03125,Low
+"General Business, Consulting, Business Management Consulting, Financial Activity, financial services",1,0.03125,Low
+"Fashion, Industrial Services, Furniture, Manufacturing",1,0.03125,Low
+"Advertising, Social Media, Software Applications, Web Development, Information Technology, Software, Social Media Management, Information technology, Advertising",1,0.03125,Low
+Religion,1,0.03125,Low
+"General Office Services, Office Furniture, Computer Consumables, Furniture Manufacturers, Home and Garden, Furniture Stores",1,0.03125,Low
+"Security Services, Computer Repair, Management, Tracking, Fleet",1,0.03125,Low
+"Civil Engineering, Structural Engineers",1,0.03125,Low
+"Computer Software Solution, Computer Services, Computers Hardware, Networking, Computer Networking, Networking Consultants, Telecommunication, Computers, Information technology, Networking",1,0.03125,Low
+"Advertising, Printing, Design and Print, Digital Printing, Courier Services, Cargo Services, Deliveries, Logistics, Printing",1,0.03125,Low
+"Banks, Credit Unions, Apartments, Hotels, Tourist Information, Travel Agents, Visa Agencies, Finance, Flights, Travel",1,0.03125,Low
+"Security Services, Web Services, Internet Security, Security, Access Control Systems, CCTV Systems, Alarm Systems",1,0.03125,Low
+"Clothing and Accessories, Clothes Shops, Ladies Clothing, Mens Clothes, Shoes, Sportswear",1,0.03125,Low
+"Energy Suppliers, Electricity Suppliers, Solar Energy, Electrical Goods, Consumer Electronics, Electrical Distribution, Solar",1,0.03125,Low
+"Advertising, Advertising Software, Market Research, Training, online business, Advertising",1,0.03125,Low
+"Associations, Party, Politics, Lusaka",1,0.03125,Low
+"Associations, Social Work Services, Voluntary Organisations, Unions, Organizations, Nonprofit Organizations, Employment",1,0.03125,Low
+"Market Research, Data Collection, Independent Research, Data Analysis, Consulting, Data collection",1,0.03125,Low
+"Farming, Agricultural Consultant, Agricultural Chemicals, Agricultural Services, Agricultural Equipment, Drip Irrigation, Pop up sprinklers, Irrigation",1,0.03125,Low
+"Small Business, Business Loan, Banks, Credit Unions, Financial Activity, financial services, lending",1,0.03125,Low
+"Consulting, Software, Business Management Consulting, Financial Activity, Business Intelligence, financial services",1,0.03125,Low
+"Computer Consumables, Ink Cartridges, Computer Repair, Business, Computer repair",1,0.03125,Low
+"Human Resources, Employment Agencies, Employee Surveys, Employment Training, Travel Agents",1,0.03125,Low
+"Automotive, Motorcar Accessories & Supplies, Car Parts and Accessories, Auto Services, Auto Dealers- New & Used, Tire Dealers, tyres in zambia, Tyres",1,0.03125,Low
+"Brokers, Insurance Companies, Business Management Consulting, Risk Management, Insurance brokers, Brokers",1,0.03125,Low
+"Travel Agents, Air Travel, Car Rental, Travel agent, Car hire, Livingstone, Victoria falls, Zambia, Car rental",1,0.03125,Low
+"Retail Services, Packaging Solutions, Farming, Agriculture, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Aluminium, Chemicals, Plastic Products, hospital furniture, Hospital equipment, Manufacturing, Wood",1,0.03125,Low
+"Solicitors, Wills and Trusts, Attorneys",1,0.03125,Low
+"Software Applications, Android, Software",1,0.03125,Low
+"Food Manufacturing, Food Consultants, Food Packaging, Food Processing",1,0.03125,Low
+"Advertising, Brand Management, Fashion, Modeling Agencies, Film, Television and Video, Models and Props, MODELING AGENCY, zambian models",1,0.03125,Low
+"Market Research, Consumer Behaviour, Data Collection, Internet Surveys, Research and Development, Web Analytics",1,0.03125,Low
+"Energy Suppliers, Solar Energy, Engineers, Biogroup Zambia, Private Hospitals in Lusaka, Solar energy equipment",1,0.03125,Low
+Engineers,1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Shopping Centres, Air Transport, Logistics, Vehicle Sales, Vehicle Services, Shipping & Port Agent, Best Gynecologist in Lusaka, Abortion Clinics in Zambia, Chisomo Hospital, Forest Park Hospital, Best Private Hospitals in Lusaka, Beit Cure Hospital of Zambia, Private Hospitals in Lusaka, Emergency, Immunisation, Vaccinations, Clinic, Doctors rooms, Paedetrician, Obstetrics, Gynaecology, Medevac, Physician, Medical assistance, Doctor, General practice, Zambia, Lusaka, Healthcare, Medical centres, Ultrasound",1,0.03125,Low
+"Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Industrial Services, Davis and Shirtliff, Solar energy equipment, Water treatment",1,0.03125,Low
+"Commercial Property, Real Estate Agents, Letting Agents, Property Management, Realtors, PROPERTY MANAGEMENT, Estate agency",1,0.03125,Low
+"Advertising, Graphic Design, Media Agencies, Marketing, marketing agency",1,0.03125,Low
+"Retail Services, Food Retailers, Industrial Services",1,0.03125,Low
+"Advertising, Design Consultants, Small Business, Buying Group, AC Repair Services, Electrical Service, Electrical services, Industrial supplies, Renewable energy",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Contract Cleaners, Cleaning service, Pest Control",1,0.03125,Low
+"Catering, Food Delivery",1,0.03125,Low
+"Food Retailers, Wholesalers, Meats Retail, Beef",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Digital Currency Mining, Audit and Accounting, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent, Copper, Development, Mines, Government, Geology, Minerals, Africa, Zambia, Mining",1,0.03125,Low
+"General Office Services, Stationery, Arts and Crafts, Industrial Services, Steel Products, Home and Garden, Carpet & Rug Dealers-New, Jewellery, Mobile Phone Shops, Car Parts and Accessories, Car Rental, Vehicle Services",1,0.03125,Low
+"General Office Services, Document Management, AC Repair Services, Engineering, Industrial Equipment, Water Treatment, Construction equipment, Water treatment, Engineering",1,0.03125,Low
+"General Office Services, Stationery, Communications, Delivery Service, Medical Equipment, GENERAL SUPPLY, Graphics, Printing, Stationery, Advertising",1,0.03125,Low
+"Education, Private school",1,0.03125,Low
+"Advertising, Brand Management, Cameramen, Catalogue Designers, Copywriters, Design Consultants",1,0.03125,Low
+"Fire Safety Consultants, Fire Protection, Fire Risk Assessment, Fire Safety Training",1,0.03125,Low
+"Real Estate Agents, Letting Agents, Online Property Listings, Property Consultants, Property Development, Agents, Real estate, Accommodation, Property",1,0.03125,Low
+"Advertising, Advertising Agencies, Brand Management, Media Consultancy, Outdoor Advertising, Digital Media, Digital, Branding, Media, Marketing, Advertising",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Mobile Phone Shops, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent",1,0.03125,Low
+"Restaurants, Take Aways, Wine and Beer, Whisky and Spirits, Hotels, Take away, Affordable, Indian food",1,0.03125,Low
+"Advertising, Magazine Publishing, New Media, Online Advertising, Radio Advertising, Social Media, Indo Bank Zambia, Natsave Bank, Investrust Bank",1,0.03125,Low
+"Advertising, Online Advertising, Web Design, Web Services, Website Management, SEO, search engine optimization, Digital advertising, Web designing, Online marketing",1,0.03125,Low
+"Doctors and Clinics, Pearl of Health Zambia, Pearl of Health Hospital Zambia, Pearl Hospital, Pearl of Health Lusaka, Pearl of Health Hospital Address, Pearl of Health Hospital Lusaka, Pearl of Health Hospital, Pearl of Health",1,0.03125,Low
+"Civil Engineering, Construction, Swimming, Services, Pool",1,0.03125,Low
+"Computer Software Solution, Farming, Agricultural Services, Software, Management, Agriculture",1,0.03125,Low
+"Farming, Agricultural Chemicals, Agricultural Equipment, Agricultural Supplies, Agriculture, Spares, Chemical, Fertilizers, Zambia, Lusaka, Chemicals, Agriculture",1,0.03125,Low
+"Advertising, Catalogue Designers, Corporate Identity Design, Design Agencies, Printing, Printing",1,0.03125,Low
+Cleaning Equipment & Services,1,0.03125,Low
+"Advertising, Security Services",1,0.03125,Low
+"Consultants, Computer Consumables, Ink Cartridges, Computer Software Solution, Computers Hardware, Cyber Security, computer hardware, hosting",1,0.03125,Low
+"General Office Services, Contract Cleaners, Construction Services, Maintenance, Electrical, Building, Contractors",1,0.03125,Low
+"Medical Equipment, Laboratory Testing, Chemicals",1,0.03125,Low
+"Schools, Secondary Schools in Lusaka",1,0.03125,Low
+"Civil Engineering, Structural Engineers, Engineering",1,0.03125,Low
+"Public Relations, Event Services, Hospitality Management, Catering, Catering Staff, Colleges",1,0.03125,Low
+"Consulting, Business Management Consulting, Management Consulting, Company Registration, BUSINESS ADVISORY, Consulting",1,0.03125,Low
+"Computer Consumables, Ink Cartridges, Printer Supplies, Electrical Goods, Air Conditioning, Electronic Equipment, Phones, Computers, Office furniture",1,0.03125,Low
+"Security Services, Industrial Premises, Industrial Security, Security Fencing, Security, Access Control Systems, CCTV Systems",1,0.03125,Low
+"Web Design, Web Hosting, Web Services, Domain Name Registration, Internet Security, SSL Certificates, mobile application, website hosting, Website design",1,0.03125,Low
+"Security Services, Energy Suppliers, Solar Energy, Engineers, Farming, Agricultural Supplies, Industrial Services, Car Parts and Accessories, Car Rental, Vehicle Services, Batteries, Electronics",1,0.03125,Low
+"Advertising, Advertising Agencies, SMS Marketing, Consultants, Communications, SMS Services, Computer Services, Internet Service Providers, Tax Consultants, Business Management Consulting, Smartnet, Internet servicesinternet",1,0.03125,Low
+"General Office Services, Archiving, Document Management, Facilities Management, Secure Document Destruction, Storage Services, Records management",1,0.03125,Low
+"Advertising, Brand Management, Online Advertising, Best deals in Zambia, Deals in Zambia",1,0.03125,Low
+"Architectural Services, Construction Services, Construction Training",1,0.03125,Low
+"Medical Equipment, Birth Equipment, Medical Supplies, Surgical Supplies, Nursing and Care, Healthcare Products, Zambia Yp, Industrial chemicals",1,0.03125,Low
+"Web Design, Graphic Design, Web Development, Ecommerce, Weddings, Wedding Web Site Designers",1,0.03125,Low
+"Advertising, Advertising Agencies",1,0.03125,Low
+"Advertising, Magazine Publishing, Web Design, Photography, Cookery, Attractions, youth, Zambia",1,0.03125,Low
+"General Office Services, General Business Services, Health and Safety, First Aid Kits, Saftey Equipment, Tapes",1,0.03125,Low
+"Apartments, Guest Houses, Hotels, Self Catering Accommodation, Recreation",1,0.03125,Low
+"Software Applications, Web Development, Web Hosting, Web Services, Domain Name Registration, Website Maintenance",1,0.03125,Low
+"Logistics, Customs Clearing, Transportation, Courier, Warehousing, Freight",1,0.03125,Low
+"Market Research, Consumer Behaviour, Data Collection, Independent Research, Market Research Consultants, Research and Development, Surveys, Consultancy, Data collection",1,0.03125,Low
+"Consultants, Communications, Telecom Consultants, Networking, Networking Consultants, Consultancy, Computers",1,0.03125,Low
+"Haulage, Courier Services, Public Transport, Deliveries, Distribution, Freight, Transport, Haulage",1,0.03125,Low
+"Clothing and Accessories, Gadgets, General Shopping, Gifts, Jewellery, Kids, buy and sell in zambia, online shopping in zambia",1,0.03125,Low
+"Advertising, Brand Management, Market Research, Marketing, Branding, Marketing",1,0.03125,Low
+"Apartments, Guest Houses",1,0.03125,Low
+"Colleges, Education, Heavy Equipment Operator School Near Me, Heavy Duty Operators College of Zambia",1,0.03125,Low
+"Electrical Goods, Computers, Mobile Phone Shops, Mobile Phones, Online shopping, Laptops",1,0.03125,Low
+"Market Research, Web Design, Web Development, Branding, Web development",1,0.03125,Low
+"Web Development, Ecommerce",1,0.03125,Low
+"Civil Engineering, Bridge Construction, Building Materials, Cold rooms, Refrigeration",1,0.03125,Low
+"Advertising, Software Applications",1,0.03125,Low
+"Web Development, Database Driven Websites, Web Services, Website Management, Website Maintenance, IT support, Websites, Web Design",1,0.03125,Low
+"Marketing, Digital Currency Mining, General Shopping, Kariba, Minerals, Zambia",1,0.03125,Low
+"Industrial Services, Industrial Supplies",1,0.03125,Low
+"Animal Shelters, Rescue",1,0.03125,Low
+Building Materials,1,0.03125,Low
+"Printing, Screen Printing, Retail Services, Retail Supplies, Clothing and Accessories, Merchandise",1,0.03125,Low
+"Film, Television and Video, Casting, Film and TV Production, Media Production, Video and DVD Production, Film Production Fixing",1,0.03125,Low
+"Interior Design, interiors, Interior decor, Interior design",1,0.03125,Low
+"General Business, Energy Suppliers, Renewable Energy",1,0.03125,Low
+"Security Services, Networking, Computer Networking, Security, ACCESS CONTROL, Solar, Cctv",1,0.03125,Low
+"Farming, Wood Products, Industrial Services, Hardware Stores, Building Materials",1,0.03125,Low
+"Opticians, Optical Shop, Opticians Near Me, opticians in lusaka",1,0.03125,Low
+"Human Resources, Quality Control, Medical Equipment, Laboratory Testing",1,0.03125,Low
+"Computer Software Solution, Software Applications, Web Services, E-business Consultancy, Software company, Software development",1,0.03125,Low
+"Advertising, Apartments, Attractions, Amusement Parks, Camping and Caravans, Caravan Hire, Hire, Zambia, Lusaka",1,0.03125,Low
+"Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Energy Suppliers, Solar Energy, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent",1,0.03125,Low
+"Logistics, Motorbikes, Transport, Transport Agents",1,0.03125,Low
+"Dry Cleaning, Sgs Inspection Services Zambia, Sgs Zambia",1,0.03125,Low
+"Construction Services, Construction",1,0.03125,Low
+"Industrial Premises, Factories, Product Development, Haulage, Travel",1,0.03125,Low
+"Consultants, Computer Services, Computer Repair, Networking, Tax Consultants, Audit and Accounting, IT Solutions, payroll, Local area network, Finance",1,0.03125,Low
+"Medical Equipment, Healthcare IT, Laboratory Testing, Farming, Agricultural Services, Science, Zambia",1,0.03125,Low
+"Construction Equipment, Concrete, Excavators, Haulage, Transport, Vehicle Manufacturers, Vehicle Sales, Vehicle Services, Auto Parts- New & Used, Tire Dealers, Concrete mixer, Spare parts",1,0.03125,Low
+Car Parts and Accessories,1,0.03125,Low
+"Human Resources, Private Investigation, Legal Services, Accident Investigation, Detective Agencies, Private investigators, Surveillance",1,0.03125,Low
+"Security Services, Computers Hardware, Software Applications, Information Technology, Farming, Agriculture, Food, Agriculture",1,0.03125,Low
+"Communications, Wireless Services",1,0.03125,Low
+"Advertising, Advertising Agencies, Cleaning Equipment & Services, General Office Services, Printing, Secretarial Services, Internet Service Providers, Audit and Accounting, Travel Agents, Air Transport, Logistics, Vehicle Services, Shipping & Port Agent, Zambia, Lusaka, Advertising",1,0.03125,Low
+"Advertising, Social Media, Media",1,0.03125,Low
+"Vehicle Sales, Vehicle Services, Auto electriciansauto centres",1,0.03125,Low
+"Energy Suppliers, Electricity Suppliers, Renewable Energy, Electrical Distribution, Energy",1,0.03125,Low
+"Advertising, SMS Marketing, T-Shirt Printing, Video Production, Web Services, E-business Consultancy, social media marketing, Web development, Web Design",1,0.03125,Low
+"Banks, Credit Unions, Barclays Bank Contact Details, Bank Address, Banks in Zambia, Absa Zambia Address, Barclays Bank Zambia Branches, Barclays Bank Zambia",1,0.03125,Low
+"Human Resources, Career Management and Planning Advisors, Market Research, Information Technology, Audit and Accounting, Apartments, Accounting",1,0.03125,Low
+"Marketing, Small Business, Business Sales, Used japanese vehicles, Used japanese cars, Japanese used cars, Second hand, Import, Parts, Exporter, Reconditioned, Budget, Cheap, Sale, Vehicles, Cars, Used, Online, Japanese",1,0.03125,Low
+"Retail Services, Packaging Solutions, Industrial Services, Steel Products, Clothing and Accessories, Headwear, Home and Garden, Jewellery, Textile, Chemicals, Plastic Products",1,0.03125,Low
+"Farming, Wood Products, Steel Products, Hardware Stores, Building Materials, Classecon Roofing Sheets, Classecon",1,0.03125,Low
+"Cafes, Restaurants, Apartments, Self Catering Accommodation, Hotel, Accommodation, Apartments",1,0.03125,Low
